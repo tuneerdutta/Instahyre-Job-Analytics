@@ -15,17 +15,25 @@ Link - https://www.instahyre.com/search-jobs/
 
 ![Screenshot 2023-08-04 214856](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/03a5acbb-10b8-44b3-b31f-0c9ca9cbfce1)
 
+
+
 **----Data Description----**
-**1) Excel_csv Files -** This folder contains 4 files Cleaned Dataset (Dataset which is cleaned after Webscrapping) followed by the Excel 
-                      Dashboard and the Company and job data extracted by Webscrapping.
+
+
+**1) Excel_csv Files -** This folder contains 4 files Cleaned Dataset (Dataset which is cleaned after Webscrapping) followed by the Excel Dashboard and the Company and job data extracted by Webscrapping.
+                      
 **2) Images -** This folder contains the Database Schema, Dashboard image and the images of insights which were given after visualisation.
+
 **3) Power Point Presentation -** This folder contains the PPT which visualises the market condition of all over India.
-**4) Python_Jupyter Notebook -** This folder contains all the files related to Webscrapping and Data Cleaning. webscrapping.py has the data for 
-                                all the job roles in India and their designation and Location where as the Hr.py file contains the names of the 
-                                Hr of the companies. 
+
+**4) Python_Jupyter Notebook -** This folder contains all the files related to Webscrapping and Data Cleaning. webscrapping.py has the data for all the job roles in India and their designation and Location where as the Hr.py file contains the names of the  Hr of the companies. 
+                                
 **5) SQL File -** This folder contains all the SQL queries and Insights on tables.
 
+
+
 **----Project Overview----**
+
 
 **1) WebScrapping - The data is extracted from Instahyre(A Job Portal) using Selenium.**
 
