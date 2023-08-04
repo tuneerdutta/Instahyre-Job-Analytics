@@ -1,0 +1,1433 @@
+﻿company_id,Company_Name,Establish year,Hr_Name,employees_count_category,employees_count,company cat
+5001,Google,1998,Aneesh Vikram,Very High,More than 1000 employees,Mid
+5002,LTIMindtree,1996,Akshata,Very High,More than 1000 employees,Mid
+5003,MediBuddy,2013,Gayathri NB HR Talent Acquisition,Very High,More than 1000 employees,Recent
+5004,MyBillBook (FloBiz),2019,Damini Hanotia,Semi High,200 - 500 employees,Start-up
+5005,Park+,2019,Hitesh Gupta,Semi High,200 - 500 employees,Start-up
+5006,Sensibull,2017,Hr Team,Low,10 - 50 employees,Start-up
+5007,Swiggy,2014,Shivani Kukreja,Very High,More than 1000 employees,Recent
+5008,Hugosave,2019,Neha Khaitan,Low,10 - 50 employees,Start-up
+5009,Dunzo,2014,Shreya Shandilya,Semi High,200 - 500 employees,Recent
+5010,Ivy Homes,2021,Pritam Thakur,Very Low,0 - 10 employees,Start-up
+5011,Treebo,2015,Advita Karkera,Semi High,200 - 500 employees,Start-up
+5012,Applied Materials,1967,Pallavi Choudhary,Very High,More than 1000 employees,Mid
+5013,O4S,2016,Krishibha Sharma,Medium,50 - 200 employees,Start-up
+5014,Refyne,2020,Swati Kapur,Low,10 - 50 employees,Start-up
+5015,Richpanel,2018,Ayushi Aeran,Low,10 - 50 employees,Start-up
+5016,Truminds Software Systems,2017,Priyansha Arora Sheher,Semi High,200 - 500 employees,Start-up
+5017,Jalan Technologies,2016,Sneha Suresh,Low,10 - 50 employees,Start-up
+5018,RingCentral,2003,Pallavi Padhy,Very High,More than 1000 employees,Recent
+5019,Zoomcar,2012,Bharath Br,Semi High,200 - 500 employees,Recent
+5020,Crayon Data,2012,Meenakshi Priyadharshini,Medium,50 - 200 employees,Recent
+5021,Head Digital Works,2005,Sughra Ali Zaidi,Semi High,200 - 500 employees,Recent
+5022,Jupiter,2019,Lalitha Gangadhara,Medium,50 - 200 employees,Start-up
+5023,ShopSe,2019,Ajay Kumar,Medium,50 - 200 employees,Start-up
+5024,Univariety,2011,Sunitha Mudiraj,Medium,50 - 200 employees,Recent
+5025,Whatfix,2013,Sowmya Shivarama,Semi High,200 - 500 employees,Recent
+5026,Delta Air Lines,1928,Suvidha Karkal,Very High,More than 1000 employees,Early
+5027,HDFC Life,2000,Hr,Very High,More than 1000 employees,Recent
+5028,Hy-Vee,1930,Payal Arora,Very High,More than 1000 employees,Early
+5029,Tranzact,2017,Mukti Shetty,Low,10 - 50 employees,Start-up
+5030,upGrad,2015,Abhishek Singh Bhadoria,Medium,50 - 200 employees,Start-up
+5031,Zenda,2021,Meenal Sharma,Low,10 - 50 employees,Start-up
+5032,Zyla Health,2017,Srishti Rai,Medium,50 - 200 employees,Start-up
+5033,7-Eleven,1927,Akshita J,Very High,More than 1000 employees,Early
+5034,Advanced Business and Healthcare India,2010,Divya Sharma,Very High,More than 1000 employees,Recent
+5035,Max Life Insurance,2000,Piyush Mishra,Very High,More than 1000 employees,Recent
+5036,Meta Z,2021,Aashiya,Low,10 - 50 employees,Start-up
+5037,Nirvana Insurance,2021,Varsha Gaud,Low,10 - 50 employees,Start-up
+5038,CS Soft Solutions,2009,Opportunity Rm,Semi High,200 - 500 employees,Recent
+5039,Kognitos,2021,Vishali Vashnavi,Low,10 - 50 employees,Start-up
+5040,Lenskart.com,2008,Madhusudhan K,Very High,More than 1000 employees,Recent
+5041,Lululemon,1998,Suvidha Karkal,Very High,More than 1000 employees,Mid
+5042,MUFG,1900,Omkar Sonawane,Very High,More than 1000 employees,Early
+5043,Mystifly,2009,Akhila Hs,Semi High,200 - 500 employees,Recent
+5044,Synergy,2011,Leelavathi Lalammala,Medium,50 - 200 employees,Recent
+5045,Tekion,2016,Pooja Pathak,Medium,50 - 200 employees,Start-up
+5046,Capri Global Capital,1997,C Anjana Nagesh,High,500 - 1000 employees,Mid
+5047,Certa,2013,Tusharika Sharma,Medium,50 - 200 employees,Recent
+5048,Deutsche Bank,1900,Lithin Raj,Very High,More than 1000 employees,Early
+5049,Kyndryl,2021,Vijay Tekumudi,Very High,More than 1000 employees,Start-up
+5050,Proxgy,2020,Agartika Tomar,Low,10 - 50 employees,Start-up
+5051,Sprinklr,2009,Khushboo Kothari,Very High,More than 1000 employees,Recent
+5052,StatusNeo,2019,Manju Singh,Low,10 - 50 employees,Start-up
+5053,Sundial,2020,Monika Srivastava,Low,10 - 50 employees,Start-up
+5054,cKers Finance,2017,Swapnil Nautiyal,Low,10 - 50 employees,Start-up
+5055,Farm Theory,2019,Consult Bae,Very Low,0 - 10 employees,Start-up
+5056,Fyers,2015,Seema Manglani,Medium,50 - 200 employees,Start-up
+5057,GlobalLogic,2000,Vishakha Tyagi,Very High,More than 1000 employees,Recent
+5058,Increff,2016,Shivkumar Gurram,Medium,50 - 200 employees,Start-up
+5059,NymbleUp,2019,Qikrecruit,Very Low,0 - 10 employees,Start-up
+5060,Texecom,1986,C J Rahul David,Semi High,200 - 500 employees,Mid
+5061,Amadeus,1987,Suchi Jayaprabhu,Very High,More than 1000 employees,Mid
+5062,BuyStars,2021,Ashmita Kumari,Low,10 - 50 employees,Start-up
+5063,StepChange,2022,Nikita Rai,Low,10 - 50 employees,Start-up
+5064,Verizon Communications,1983,Ipshita Samantroy,Very High,More than 1000 employees,Mid
+5065,Aris Infra,2021,Pooja Pathak,Medium,50 - 200 employees,Start-up
+5066,Flutura,2012,Sougat Das,Medium,50 - 200 employees,Recent
+5067,Global Logics,2014,Parmod Nehra,Very Low,0 - 10 employees,Recent
+5068,Growpital,2020,Shruti Aggarwal,Very Low,0 - 10 employees,Start-up
+5069,Khyaal,2020,Anjali Nair,Very Low,0 - 10 employees,Start-up
+5070,Xindus Trade Networks,2022,Himanshu G,Low,10 - 50 employees,Start-up
+5071,CentroMotion,2019,Kratika Sharma,Very High,More than 1000 employees,Start-up
+5072,LinkedIn,2002,Swantana Sahoo,Very High,More than 1000 employees,Recent
+5073,Lumen Technologies,1968,Ayushi Srivastava,Very High,More than 1000 employees,Mid
+5074,MakeMyTrip,2000,Arun Sreenivasan,Very High,More than 1000 employees,Recent
+5075,Symphony Talent,2016,Manjari Rastogi,Semi High,200 - 500 employees,Start-up
+5076,Bajaj Finserv,2007,Pranali Vinod Gajbhiye,Very High,More than 1000 employees,Recent
+5077,BetterPlace,2015,Nikita Sah,High,500 - 1000 employees,Start-up
+5078,Flipkart,2007,Saloni Sharma,Very High,More than 1000 employees,Recent
+5079,Mettlesemi Systems and Technologies,2021,Sukhila Umarji Hodlur,Very Low,0 - 10 employees,Start-up
+5080,Mintoak Innovations,2017,Khushi Dubey,Low,10 - 50 employees,Start-up
+5081,NeoGrowth,2013,Swapnil Nautiyal,Semi High,200 - 500 employees,Recent
+5082,Payswiff,2013,Archana Manne,Semi High,200 - 500 employees,Recent
+5083,Processware Systems,1989,Sukhila Umarji Hodlur,Medium,50 - 200 employees,Mid
+5084,TecQubes Technologies,2019,Amrutha Vibha,Medium,50 - 200 employees,Start-up
+5085,Apexon,1996,Kirthika T,Very High,More than 1000 employees,Mid
+5086,Klimb.io,2015,Khushi Dubey,Low,10 - 50 employees,Start-up
+5087,Mensa Brands,2017,Navdeep Kaur,Low,10 - 50 employees,Start-up
+5088,Money View,2014,Ravi Dubey,Semi High,200 - 500 employees,Recent
+5089,Tech Mahindra,1986,Deepak Padhi,Very High,More than 1000 employees,Mid
+5090,Amazon,1994,Vikrant Dhoundiyal,Very High,More than 1000 employees,Mid
+5091,DAZN,2007,Rituraj Rai,Very High,More than 1000 employees,Recent
+5092,DeNovo Systems,2014,Swathi Nune,Low,10 - 50 employees,Recent
+5093,MSD Technologies,2012,Richa Upadhyay,Low,10 - 50 employees,Recent
+5094,VideoVerse,2022,Rovena Dsouza,Medium,50 - 200 employees,Start-up
+5095,Donyati,2015,Sachin Ahire,Medium,50 - 200 employees,Start-up
+5096,Dorustree,2021,Logeshwari Somu,Low,10 - 50 employees,Start-up
+5097,MyFinfi World,2022,Priyanka K,Low,10 - 50 employees,Start-up
+5098,Synechron,2001,Bala Bhaskar,Very High,More than 1000 employees,Recent
+5099,ThoughtsWin Systems,2018,Ritu Ranwa,Very Low,0 - 10 employees,Start-up
+5100,Delta,2017,Anitha V,Very Low,0 - 10 employees,Start-up
+5101,Paytm,2000,Suhail,Very High,More than 1000 employees,Recent
+5102,Pelican,1993,Anoushka Goswami,Medium,50 - 200 employees,Mid
+5103,PhysicsWallah,2014,Vaibhav Singh,Very High,More than 1000 employees,Recent
+5104,Ripplr,2019,Sindhuja,Medium,50 - 200 employees,Start-up
+5105,Suraasa,2017,Ifra Naaz,Medium,50 - 200 employees,Start-up
+5106,Flendzz Technologies,2014,Navya C M,Low,10 - 50 employees,Recent
+5107,Happiest Minds Technologies,2011,Thomu Doll,Very High,More than 1000 employees,Recent
+5108,HiWi,2022,Priya Arora,Low,10 - 50 employees,Start-up
+5109,RapidAI,2012,Daphne Goveas,Medium,50 - 200 employees,Recent
+5110,ShopUp,2017,Shubham,Medium,50 - 200 employees,Start-up
+5111,SmartCoin,2016,Priya Desai,Medium,50 - 200 employees,Start-up
+5112,Symphony Technology Group,2002,Udeshna Boruah Kalita,Low,10 - 50 employees,Recent
+5113,Balaji Products,2007,Sheetal Surana,Very Low,0 - 10 employees,Recent
+5114,Fello,2020,Paankhuri Aggarwal,Very Low,0 - 10 employees,Start-up
+5115,ImSafeNow,2017,Girija Perumal,Very Low,0 - 10 employees,Start-up
+5116,Nervotec,2020,Anoushka Goswami,Very Low,0 - 10 employees,Start-up
+5117,Samsung,1980,Neha Dalvi,Very High,More than 1000 employees,Mid
+5118,Eunimart,2016,Rohit Dutt,Low,10 - 50 employees,Start-up
+5119,Expedia,1996,Rishabh Wadhwa,Very High,More than 1000 employees,Mid
+5120,HCL Technologies,1976,Ravi Prakash Behara,Very High,More than 1000 employees,Mid
+5121,Nab,1981,Prajwala Sumith,Very High,More than 1000 employees,Mid
+5122,Planview,1989,Ratna Kumar S,High,500 - 1000 employees,Mid
+5123,Equentis,2015,Aarthi P,Medium,50 - 200 employees,Start-up
+5124,Intuit,1983,Shruti Sharma,Very High,More than 1000 employees,Mid
+5125,Linktree,2016,Abhishek Singh,Semi High,200 - 500 employees,Start-up
+5126,Nestle,1866,Arun Sreenivasan,Very High,More than 1000 employees,Early
+5127,Nihilent,2000,Sai Sahitya V,Very High,More than 1000 employees,Recent
+5128,Beyondsoft,1995,Shubham,Very High,More than 1000 employees,Mid
+5129,Meragi,2022,Anjali Nair,Low,10 - 50 employees,Start-up
+5130,PocketFM,2018,Anjali Nair,Medium,50 - 200 employees,Start-up
+5131,Altimetrik,2012,Kusha Bedre,Very High,More than 1000 employees,Recent
+5132,Lumen Solutions,2011,Rekha B,Low,10 - 50 employees,Recent
+5133,The Famous,2021,Dhara Raval,Very Low,0 - 10 employees,Start-up
+5134,Allen Career Institute,1988,Agniv Debnath,Very High,More than 1000 employees,Mid
+5135,Cogent Integrated Business Solutions,2005,Shilpa Dehare,Medium,50 - 200 employees,Recent
+5136,Peoplebox,2018,Tasmia Azhar,Low,10 - 50 employees,Start-up
+5137,Rakuten,1997,Anusha H,Very High,More than 1000 employees,Mid
+5138,Tailorbird,2020,Ankit Dhiman,Low,10 - 50 employees,Start-up
+5139,TatvaCare,2020,Kim Tunglut,Medium,50 - 200 employees,Start-up
+5140,Epsilon,2015,Srinivas Mungara,Very High,More than 1000 employees,Start-up
+5141,KPL Tech Solution,2014,Abhishek Arora,Medium,50 - 200 employees,Recent
+5142,Simplilearn,2009,Priya,Very High,More than 1000 employees,Recent
+5143,Skuad,2019,Jigeesha Gulati,Medium,50 - 200 employees,Start-up
+5144,UNext Learning,2020,Priya,High,500 - 1000 employees,Start-up
+5145,Angel One,1987,Ananda Pandey,Very High,More than 1000 employees,Mid
+5146,CloudEQ,2019,Human Resource Cloudeq India,Medium,50 - 200 employees,Start-up
+5147,Fantasy Akhada,2020,Mrinali Mahajan,Medium,50 - 200 employees,Start-up
+5148,Hike Education,2014,Mayank Singh,Medium,50 - 200 employees,Recent
+5149,Maltar Services,2016,Priyanshu Sharma,Medium,50 - 200 employees,Start-up
+5150,Bread Financial,1996,Rohit Ghadge,Very High,More than 1000 employees,Mid
+5151,CLR Facility Services,2002,Vinod Gangadhar,Very High,More than 1000 employees,Recent
+5152,Delhivery,2011,Divya Chhabra,Very High,More than 1000 employees,Recent
+5153,FactWise,2021,Stawan Kamani,Low,10 - 50 employees,Start-up
+5154,Rapid Acceleration Partners,2017,Rojee R,Low,10 - 50 employees,Start-up
+5155,Wipro,1945,Jai Nayak,Very High,More than 1000 employees,Early
+5156,Zepto,2021,Sneha Sinha,Very High,More than 1000 employees,Start-up
+5157,Auriga IT Consulting,2010,Eva Mathur,Medium,50 - 200 employees,Recent
+5158,Capita,1984,Heena Makhijani,Very High,More than 1000 employees,Mid
+5159,Citi,1900,Namrata Dutta,Very High,More than 1000 employees,Early
+5160,Gameberry Labs,2017,Abhijeet Mitra,Medium,50 - 200 employees,Start-up
+5161,On Device Solutions,2011,Pavan Kumar,Medium,50 - 200 employees,Recent
+5162,Webnyay,2019,Anwesha Chakraborty,Low,10 - 50 employees,Start-up
+5163,BizPilot,2021,Rajan Kumar,Low,10 - 50 employees,Start-up
+5164,Carelan,2021,Rahul Mishra,Low,10 - 50 employees,Start-up
+5165,Clay Tech,2008,Kanika Saini,Medium,50 - 200 employees,Recent
+5166,KalaGato,2018,Atul Kumar,Very Low,0 - 10 employees,Start-up
+5167,ShopClues,2011,Pratibha Adhikari,Very High,More than 1000 employees,Recent
+5168,Aegeus Technologies,2017,Fathima Zoya,Low,10 - 50 employees,Start-up
+5169,Believe,2021,Meenal Agre,Semi High,200 - 500 employees,Start-up
+5170,Broadway Technology,2003,Monika Srivastava,Medium,50 - 200 employees,Recent
+5171,E-Junkie,2004,Chhavi Mittal,Very Low,0 - 10 employees,Recent
+5172,ElectricPe,2021,Ramya Gattim,Low,10 - 50 employees,Start-up
+5173,Hitachi India,1930,Ayushi Jain,Very High,More than 1000 employees,Early
+5174,Neuralgo,2023,Fredina Graceline,Very Low,0 - 10 employees,Start-up
+5175,Coding Ninjas India,2016,Mayank Singh,Medium,50 - 200 employees,Start-up
+5176,Losung360,2012,Pardeep Singh,Semi High,200 - 500 employees,Recent
+5177,Ushur,2014,Bharathi Reddy,Medium,50 - 200 employees,Recent
+5178,Wheebox,2011,Divya Rani,Medium,50 - 200 employees,Recent
+5179,Altruist Technologies,2005,Amit Kumar,Very High,More than 1000 employees,Recent
+5180,Chapter247 Infotech,2012,Niraj Madavdiya,Medium,50 - 200 employees,Recent
+5181,Inspire Brands,2018,Thanusha Reddy,Very High,More than 1000 employees,Start-up
+5182,Luminous Power Technologies,1988,Deepak,Very High,More than 1000 employees,Mid
+5183,Morgan Stanley,1935,Rajgopal R,Very High,More than 1000 employees,Early
+5184,Preqin,2003,Rachana C S,Semi High,200 - 500 employees,Recent
+5185,Saras Analytics,2016,Anoohya Parvathaneni,Low,10 - 50 employees,Start-up
+5186,Socure,2012,Subashree B,Semi High,200 - 500 employees,Recent
+5187,Tiger Analytics,2011,Rojee R,High,500 - 1000 employees,Recent
+5188,Avataar,2014,Sharique Mobin,Semi High,200 - 500 employees,Recent
+5189,GrowthSchool,2021,Rahul Narula,Low,10 - 50 employees,Start-up
+5190,Instamojo,2012,Shefali Chaurasia,Medium,50 - 200 employees,Recent
+5191,JioSaavn,2007,Ishita Ahuja,Medium,50 - 200 employees,Recent
+5192,Quince,2018,Swatee Paithankar,Medium,50 - 200 employees,Start-up
+5193,The Grey Dots,2021,Poonam Gangwal,Very Low,0 - 10 employees,Start-up
+5194,Adobe,1982,Kalyani Tripathi,Very High,More than 1000 employees,Mid
+5195,Airbnb,2008,Namrata Sharma,Very High,More than 1000 employees,Recent
+5196,Captain Fresh,2019,Sam Abhilash,Very High,More than 1000 employees,Start-up
+5197,Ivan Infotech,2015,Sudakshina Mitra,Low,10 - 50 employees,Start-up
+5198,Nextpoint,2001,Karthik Aj,Medium,50 - 200 employees,Recent
+5199,sentra.world,2023,Pooja Pathak,Very Low,0 - 10 employees,Start-up
+5200,UST Global,1999,Shanthi Y,Very High,More than 1000 employees,Mid
+5201,VMware,1998,Srijesh Karthikeyan,Very High,More than 1000 employees,Mid
+5202,Colmore,2017,Karthik T,Medium,50 - 200 employees,Start-up
+5203,DevRev,2020,Supriya R,Low,10 - 50 employees,Start-up
+5204,Impact Analytics,2015,Kirti Singh,Medium,50 - 200 employees,Start-up
+5205,Indee.tv,2014,Mohit Sharma,Low,10 - 50 employees,Recent
+5206,Nimblechapps,2014,Hr Nimblechapps,Low,10 - 50 employees,Recent
+5207,OYO Rooms,2013,Shraddha Jhamb,Very High,More than 1000 employees,Recent
+5208,PhonePe,2015,Joel Joseph,Very High,More than 1000 employees,Start-up
+5209,Uber,2009,Prashant Sagar,Very High,More than 1000 employees,Recent
+5210,100ms,2020,Shruti Verma,Very Low,0 - 10 employees,Start-up
+5211,Arintra,2020,Prakhar Mehrotra,Low,10 - 50 employees,Start-up
+5212,Blue Rose Technologies,2010,Chandrababu Gali,Medium,50 - 200 employees,Recent
+5213,Lendingkart,2014,Supriya Vijay,Semi High,200 - 500 employees,Recent
+5214,Accolite Digital,2000,Rahul Atri,Very High,More than 1000 employees,Recent
+5215,i-Lanam Technologies,2020,Zinal Prajapati,Low,10 - 50 employees,Start-up
+5216,Kaleidofin,2017,Poornima B,Medium,50 - 200 employees,Start-up
+5217,Leewayhertz Technologies,2007,Inderpreet Kaur,Medium,50 - 200 employees,Recent
+5218,Openhouse,2018,Akshay Rampuria,Medium,50 - 200 employees,Start-up
+5219,Upstox,2010,Shivangi Singh,Semi High,200 - 500 employees,Recent
+5220,Zoringa,2022,Garima Kumar,Low,10 - 50 employees,Start-up
+5221,CaterNinja,2016,Team Caterninja,Low,10 - 50 employees,Start-up
+5222,GetMega,2018,Aveena George,Low,10 - 50 employees,Start-up
+5223,Nitara,2017,Sachin Ahire,Medium,50 - 200 employees,Start-up
+5224,RAS Luxury Oils,2017,Tasmia Azhar,Medium,50 - 200 employees,Start-up
+5225,WebMobril Technologies,2014,Indu Dixit,Medium,50 - 200 employees,Recent
+5226,Wolken Software,2011,Karthik Kashyap,Low,10 - 50 employees,Recent
+5227,Wooqer,2014,Pardeep Singh,Medium,50 - 200 employees,Recent
+5228,Anand Rathi Shares and Stock Brokers,1994,Shashank Ajitsaria,Very High,More than 1000 employees,Mid
+5229,Devtron Labs,2019,Sonam Yadav,Low,10 - 50 employees,Start-up
+5230,Hyperface,2021,Swati,Very Low,0 - 10 employees,Start-up
+5231,Invensoft Technologies,2000,Shrivathsa Rao,Low,10 - 50 employees,Recent
+5232,Passion Gaming,2015,Sonam Yadav,Medium,50 - 200 employees,Start-up
+5233,Turtlemint,2015,Swati Khanna,Very High,More than 1000 employees,Start-up
+5234,Geetanjali Homestate,2013,Monika Naruka,High,500 - 1000 employees,Recent
+5235,KreditBee,2018,Pinnacle Consultz,Semi High,200 - 500 employees,Start-up
+5236,NEC Technologies,1899,Danish Quresh,Semi High,200 - 500 employees,Early
+5237,Atlassian,2002,Manisha Anand Sheherhers,Very High,More than 1000 employees,Recent
+5238,Choice,2010,Himanshu Gunani,High,500 - 1000 employees,Recent
+5239,CubeHQ,2022,Joti Bala,Very Low,0 - 10 employees,Start-up
+5240,Findr,2023,Shweta Agrawal,Very Low,0 - 10 employees,Start-up
+5241,Savage,2021,Riya Sharma,Low,10 - 50 employees,Start-up
+5242,Sketch Brahma Technologies,2017,Reshma Gutha,Low,10 - 50 employees,Start-up
+5243,Wendor,2017,Ritesh Singh,Low,10 - 50 employees,Start-up
+5244,Ace Infoway,1999,Kanchan Pawar,Semi High,200 - 500 employees,Mid
+5245,FlixStock,2015,Vicky Jindal,Semi High,200 - 500 employees,Start-up
+5246,Gmware,2017,Mandeep Chauhan,Low,10 - 50 employees,Start-up
+5247,Infosys,1981,Beeta Choudhary,Very High,More than 1000 employees,Mid
+5248,Maxcell,2023,Sheetal Surana,Low,10 - 50 employees,Start-up
+5249,Simplotel,2013,Chandra Kiran B,Low,10 - 50 employees,Recent
+5250,AGCO Corporation,1990,Siddhartha S,Very High,More than 1000 employees,Mid
+5251,Neighbourly,1981,Megha Dave,High,500 - 1000 employees,Mid
+5252,NetSpring,2019,Srijan Tiwari,Low,10 - 50 employees,Start-up
+5253,Patch Infotech,2016,Ishika Rastogi,Medium,50 - 200 employees,Start-up
+5254,Sequelstring Solutions And Consultancy,2018,Kartik Negi,Very Low,0 - 10 employees,Start-up
+5255,UnionSys Technologies,2008,Harish Chandra,Medium,50 - 200 employees,Recent
+5256,Vymo,2013,Sreya Mazumdar,Medium,50 - 200 employees,Recent
+5257,ANSR,2003,Pooja Angadi,Medium,50 - 200 employees,Recent
+5258,Cision,1867,Rajesh N,Very High,More than 1000 employees,Early
+5259,Dedalus,1982,Kritika Kohli,Very High,More than 1000 employees,Mid
+5260,Emids Technologies,1999,Sneha Khandelwal,Very High,More than 1000 employees,Mid
+5261,Hiver,2011,Mythili Achappa,Medium,50 - 200 employees,Recent
+5262,Kezan Consulting,2022,Rehana Sayeed,Low,10 - 50 employees,Start-up
+5263,Amnic,2021,Mahak Kankane,Low,10 - 50 employees,Start-up
+5264,Dibber,2003,Shilpi Lalotra,Very High,More than 1000 employees,Recent
+5265,Justdial,1996,Kashish Keswani,Very High,More than 1000 employees,Mid
+5266,Kasplo,2015,Surya S,Medium,50 - 200 employees,Start-up
+5267,NimbleEdge,2021,Mahak Kankane,Low,10 - 50 employees,Start-up
+5268,Reevoy,2020,Nisha Sharma,Medium,50 - 200 employees,Start-up
+5269,Unify,2014,Om Prakash Gaddam,Very High,More than 1000 employees,Recent
+5270,British Orient Infotel,2004,Diksha Jhingran,Very High,More than 1000 employees,Recent
+5271,Learning Routes,2016,Ishita Mahajan,Medium,50 - 200 employees,Start-up
+5272,Oliver Wyman,1984,Anupam Gandhi,Very High,More than 1000 employees,Mid
+5273,Scientific Games,2000,Ankit Sinha,Low,10 - 50 employees,Recent
+5274,Animall,2019,Anjali Nair,Very Low,0 - 10 employees,Start-up
+5275,Blockwiz,2020,Dev Sharma,Medium,50 - 200 employees,Start-up
+5276,InfoCepts,2004,Ekta Sachdeva,Very High,More than 1000 employees,Recent
+5277,Quotient Technology,1998,Ankit Sinha,High,500 - 1000 employees,Mid
+5278,Apollo.io,2015,Ritika Pokhriyal,Medium,50 - 200 employees,Start-up
+5279,DeepSource,2018,Hem Chandra Kar,Low,10 - 50 employees,Start-up
+5280,QuillBot,2017,Anurag Singh,Medium,50 - 200 employees,Start-up
+5281,3point3 Automation Labs,2014,Amit Kumar,Low,10 - 50 employees,Recent
+5282,Flexcar,2019,Suparna Das,Medium,50 - 200 employees,Start-up
+5283,Sahney Kirkwood,1966,Sanchari Dutta,Medium,50 - 200 employees,Mid
+5284,12th Wonder,2012,Utkarsha Nagulpelli,Medium,50 - 200 employees,Recent
+5285,Arcesium,2015,Rahul Bajpai,High,500 - 1000 employees,Start-up
+5286,HackerRank,2012,Sandhya Suresh,Medium,50 - 200 employees,Recent
+5287,SpotDraft,2017,Preeti Chhetri,Medium,50 - 200 employees,Start-up
+5288,TLC Relationship Management,2002,Priya,High,500 - 1000 employees,Recent
+5289,Vcosmos,2021,Atharv Dhopte,High,500 - 1000 employees,Start-up
+5290,Vertex Infocom,2015,Mouli Dolui,Low,10 - 50 employees,Start-up
+5291,Dynamic Edge,2015,Ankit Chauhan,Low,10 - 50 employees,Start-up
+5292,Mstack Chemicals,2022,Blessy Fernandes,Very Low,0 - 10 employees,Start-up
+5293,Onusworks Software,2013,Naveen Kumar,Low,10 - 50 employees,Recent
+5294,Ankercloud,2018,Pinnacle Consultz,Medium,50 - 200 employees,Start-up
+5295,Bright Money,2019,Pooja V Chalageri,Medium,50 - 200 employees,Start-up
+5296,Dev Information Technology,1997,Himakshi Mathur,Very High,More than 1000 employees,Mid
+5297,EMotorad,2020,Navdeep Kaur,Medium,50 - 200 employees,Start-up
+5298,Finquest,2016,Navya C M,Semi High,200 - 500 employees,Start-up
+5299,Infra.Market,2017,Bhavya Verma,Very High,More than 1000 employees,Start-up
+5300,Walmart Global Tech India,1962,Arun Lazar Jebamani Joseph,Very High,More than 1000 employees,Mid
+5301,Axyya Digital,2021,Harshita Saraswat,Low,10 - 50 employees,Start-up
+5302,CAW Studios,2017,Careers Caw,Medium,50 - 200 employees,Start-up
+5303,CoreLogic,2010,Ankita Yadav,Very High,More than 1000 employees,Recent
+5304,Freshworks,2010,Keerthana Ramaswamy,Very High,More than 1000 employees,Recent
+5305,I and S Buildtech,2022,Shalini Maurya,Very Low,0 - 10 employees,Start-up
+5306,JFrog,2008,Shalini Jakhar,High,500 - 1000 employees,Recent
+5307,Etech Global Services,1997,Nidhi R,Very High,More than 1000 employees,Mid
+5308,OpsMx,2017,Viswanatha Syam Devarakonda,Medium,50 - 200 employees,Start-up
+5309,Snapdeal,2010,Arun Sreenivasan,High,500 - 1000 employees,Recent
+5310,Test Triangle,2012,Thulasi D,Medium,50 - 200 employees,Recent
+5311,Druva,2008,Aayushi Narayan,High,500 - 1000 employees,Recent
+5312,GlobalBees,2021,Navdeep Kaur,Semi High,200 - 500 employees,Start-up
+5313,Niti AI,2022,Madhavi Dixit,Very Low,0 - 10 employees,Start-up
+5314,OvalEdge,2013,Subbu N,Semi High,200 - 500 employees,Recent
+5315,Semikart,2016,Selvendran K,Low,10 - 50 employees,Start-up
+5316,Speech2Text,2005,Ayushi Srivastava,Low,10 - 50 employees,Recent
+5317,Zeta,2015,Nikitaa P,Semi High,200 - 500 employees,Start-up
+5318,Bhanzu,2020,Silita Simantika,Medium,50 - 200 employees,Start-up
+5319,Bigscal Technologies,2014,Bigscal Hr,Medium,50 - 200 employees,Recent
+5320,Deutsche Telekom Digital Labs,2018,Nikita Sah,Very High,More than 1000 employees,Start-up
+5321,itilite,2017,Astha Singh,Medium,50 - 200 employees,Start-up
+5322,SBNRI,2020,Arun Sreenivasan,Low,10 - 50 employees,Start-up
+5323,bizott,2022,Shailesh Davra,Very Low,0 - 10 employees,Start-up
+5324,DataWeave,2011,Shailesh Bisht,Medium,50 - 200 employees,Recent
+5325,Decabits Software,2019,Mansi Singla,Low,10 - 50 employees,Start-up
+5326,Blend360,2005,Ramya Tanya,Semi High,200 - 500 employees,Recent
+5327,CaaStle,2012,Aarthi P,Semi High,200 - 500 employees,Recent
+5328,Juntrax Solutions,2016,Aafrin Sultanak,Very Low,0 - 10 employees,Start-up
+5329,Meesho,2015,Abhishek Thakur,High,500 - 1000 employees,Start-up
+5330,Paypal,1998,Ankita Singh,Very High,More than 1000 employees,Mid
+5331,TopHat Software,2018,Trapti Purohit,Low,10 - 50 employees,Start-up
+5332,Accrete.AI,2017,Sunil Sethi,Low,10 - 50 employees,Start-up
+5333,CashKaro.com,2012,Blessy Fernandes,Medium,50 - 200 employees,Recent
+5334,Deep Value,2006,Anoushka Goswami,Low,10 - 50 employees,Recent
+5335,Digicorp Information Systems,2004,Grishma Vachhani,Medium,50 - 200 employees,Recent
+5336,Dropkaffe Food and Beverages,2015,Noopur Shukla,Low,10 - 50 employees,Start-up
+5337,Klevu,2013,Vandana Purohit,Medium,50 - 200 employees,Recent
+5338,SuperTokens,2019,Dixita Sharma,Very Low,0 - 10 employees,Start-up
+5339,ADOS Interiors,2014,Ankit Y,Low,10 - 50 employees,Recent
+5340,Bizongo,2014,Suhail,Semi High,200 - 500 employees,Recent
+5341,Cloudologic,2010,Farheen Khan,Medium,50 - 200 employees,Recent
+5342,Instarama,2015,Ritesh Singh,Low,10 - 50 employees,Start-up
+5343,NinjaCart,2015,Madhavi Dixit,Very High,More than 1000 employees,Start-up
+5344,Quiph,2018,Upasana Kayal,Low,10 - 50 employees,Start-up
+5345,SquadStack,2014,Marsina Waffa,Medium,50 - 200 employees,Recent
+5346,Squareboat,2013,Khushi Tomar,Low,10 - 50 employees,Recent
+5347,Y Media Labs,2009,Nethra Mp,Semi High,200 - 500 employees,Recent
+5348,AheadRace,2014,Mahek S,Medium,50 - 200 employees,Recent
+5349,Asper AI,2022,Shruti Aggarwal,Medium,50 - 200 employees,Start-up
+5350,Carousell,2012,Jyoti Mehta,High,500 - 1000 employees,Recent
+5351,Gynoveda,2019,Shubha Naik,Low,10 - 50 employees,Start-up
+5352,MJB Technology Solutions,2002,Kavya Sree,Semi High,200 - 500 employees,Recent
+5353,Twid,2020,Karishma Bidla,Low,10 - 50 employees,Start-up
+5354,Airtel Africa,2010,Raksha Pant,Very High,More than 1000 employees,Recent
+5355,Capillary Technologies,2008,Mukta Naregal,Semi High,200 - 500 employees,Recent
+5356,Jobsforher,2015,Amrutha S,Medium,50 - 200 employees,Start-up
+5357,MrMilkman,2015,Divyanshu Singh,Low,10 - 50 employees,Start-up
+5358,PayU,2011,Sakshi Mahajan,High,500 - 1000 employees,Recent
+5359,Spritle Software,2009,Kamakshi Sivaramakrishnan,Medium,50 - 200 employees,Recent
+5360,Synaptic,2016,Aayushi Katara,Medium,50 - 200 employees,Start-up
+5361,Confluent,2014,Sudhindra MG Rao Sudhi,Very High,More than 1000 employees,Recent
+5362,Cosm,2020,Ankita Hiremath,Medium,50 - 200 employees,Start-up
+5363,ZYOD,2023,Yash Singh,Low,10 - 50 employees,Start-up
+5364,3M,1902,Roopini Raghul,Very High,More than 1000 employees,Early
+5365,Accorian,2019,Gunjan Goyal,Low,10 - 50 employees,Start-up
+5366,Aissel Technologies,2010,Sujana V,Medium,50 - 200 employees,Recent
+5367,Cleartrip,2006,Meenakshi Joshi,High,500 - 1000 employees,Recent
+5368,Hyper Thread Solutions,2013,Ranjith Ammu,Medium,50 - 200 employees,Recent
+5369,VasyERP,2017,Jahnavi Desai,Medium,50 - 200 employees,Start-up
+5370,Attinad Software,2010,Lekshmi Chandra,Medium,50 - 200 employees,Recent
+5371,NIUM,2015,Krishna Chaitanya Reddy Katta KC,Very High,More than 1000 employees,Start-up
+5372,Smartclean,2017,Apurva Nidavani,Low,10 - 50 employees,Start-up
+5373,Tessell,2021,Meenal Sharma,Low,10 - 50 employees,Start-up
+5374,Xerago,2002,Lekha R,Semi High,200 - 500 employees,Recent
+5375,AltF,2015,Nakul Kataria,Low,10 - 50 employees,Start-up
+5376,Prudential Corporation Asia,1900,Madhusmita M,Very High,More than 1000 employees,Early
+5377,Spotnana,2020,Sachin Gupta,Medium,50 - 200 employees,Start-up
+5378,TechnoIdentity,2011,Nathaniel Pon Sundarji,Medium,50 - 200 employees,Recent
+5379,Viacom18,2007,Archana Tr,Very High,More than 1000 employees,Recent
+5380,AppsTechy,2022,Megha Dobra,Very Low,0 - 10 employees,Start-up
+5381,Deloitte,1845,Ghowsalya B,Very High,More than 1000 employees,Early
+5382,Intelizest,2016,Uma Maheshwari,Medium,50 - 200 employees,Start-up
+5383,Open Mind Services,2007,Preeti Chugh,Medium,50 - 200 employees,Recent
+5384,Owens & Minor,1882,Omkar Sonawane,Very High,More than 1000 employees,Early
+5385,Flatworld Solutions,2002,Rekha B,Very High,More than 1000 employees,Recent
+5386,HomeLane,2014,Suchin S,Very High,More than 1000 employees,Recent
+5387,Pepper Money India,2022,Prathamlok,Low,10 - 50 employees,Start-up
+5388,Perennial Systems,2006,Sayan Mondal,Semi High,200 - 500 employees,Recent
+5389,Wint Wealth,2020,Nikita Sah,Low,10 - 50 employees,Start-up
+5390,CoffeeBeans,2017,Surya S,Medium,50 - 200 employees,Start-up
+5391,Nykaa,2012,Akshatha Hydri,Semi High,200 - 500 employees,Recent
+5392,Rudra,2009,Rachayita Gupta,Low,10 - 50 employees,Recent
+5393,ShareChat,2015,Khalid,High,500 - 1000 employees,Start-up
+5394,Squadra Media,2016,Rashmi Rao,Low,10 - 50 employees,Start-up
+5395,Bugfoo,2022,Rahul Kumar,Very Low,0 - 10 employees,Start-up
+5396,BYJU'S FutureSchool,1996,Atul Kumar,Very High,More than 1000 employees,Mid
+5397,NeoDove Technologies,2020,Nikita Gandhi,Low,10 - 50 employees,Start-up
+5398,SaaS Labs,2016,Pardeep Singh,Semi High,200 - 500 employees,Start-up
+5399,Mashreq Bank,1967,Lithin Raj,Very High,More than 1000 employees,Mid
+5400,Twenty Point Nine Five Ventures,2022,Chandramouli Careersahead,Low,10 - 50 employees,Start-up
+5401,Visitant Services,2022,Mansi Goyal,Very Low,0 - 10 employees,Start-up
+5402,Voiceoc,2019,Pardeep Singh,Very Low,0 - 10 employees,Start-up
+5403,Art Attack Animation,2018,Madhulika Khatri,Very Low,0 - 10 employees,Start-up
+5404,BillDesk,2000,Uneza Khan,High,500 - 1000 employees,Recent
+5405,CashFlo,2017,Kapil Goyal,Low,10 - 50 employees,Start-up
+5406,IIH Global,2013,Milankumar Sanandia,Low,10 - 50 employees,Recent
+5407,Masters' Union,2020,Deepa Kushwaha,Low,10 - 50 employees,Start-up
+5408,SLK,2000,Keerthi K,Very High,More than 1000 employees,Recent
+5409,Varmora Tiles Bathware,1994,Chirag Hirani,Very High,More than 1000 employees,Mid
+5410,Aspire Proptech,2017,Madan Raj,Low,10 - 50 employees,Start-up
+5411,Cloudsufi,2019,Arashpreet Kaur,Semi High,200 - 500 employees,Start-up
+5412,HDFC Bank,1994,Recruiter At YNM,Very High,More than 1000 employees,Mid
+5413,Hewlett Packard Enterprise (HPE),2015,Navya C M,Very High,More than 1000 employees,Start-up
+5414,NxtWave,2020,Bhuvan Polepally,Very High,More than 1000 employees,Start-up
+5415,OneInsure,2008,Recruiter At YNM,High,500 - 1000 employees,Recent
+5416,OrangeMantra,2001,Navya C M,Medium,50 - 200 employees,Recent
+5417,Stable Money,2022,Sumitabh Ghosh,Low,10 - 50 employees,Start-up
+5418,UX Design Labs,2007,Krishit Goud,Low,10 - 50 employees,Recent
+5419,Abnormal Security,2018,Aishwarya Tandon,High,500 - 1000 employees,Start-up
+5420,Eight Network,2021,Ashwin N,Very Low,0 - 10 employees,Start-up
+5421,Intellect Design Arena,2014,Sridevi Viswanathan,Very High,More than 1000 employees,Recent
+5422,Phoenix Business Advisory,2018,Shubham Singh,Medium,50 - 200 employees,Start-up
+5423,Sustech Engineering,2013,Ardhendu Bikash Acharjee,Low,10 - 50 employees,Recent
+5424,Yangpoo Executive Education,2016,Mansi Goyal,Medium,50 - 200 employees,Start-up
+5425,Cure.Fit,2016,Likhitha B N,Very High,More than 1000 employees,Start-up
+5426,InBetween,1992,Vipin Dhaker,Low,10 - 50 employees,Mid
+5427,InMobi,2007,Meghashree Ramesh,Very High,More than 1000 employees,Recent
+5428,Baygrape Technology Solutions,2016,Deval Talati Shah,Low,10 - 50 employees,Start-up
+5429,Line,2019,Shruti Choudhary,Medium,50 - 200 employees,Start-up
+5430,MangoApps,2007,Dhhruval B Modi,Medium,50 - 200 employees,Recent
+5431,Swimlane,2014,Ramya Tanya,Semi High,200 - 500 employees,Recent
+5432,ZopSmart Technology,2016,Mahima,Medium,50 - 200 employees,Start-up
+5433,ARi,2006,Archana Tr,Very High,More than 1000 employees,Recent
+5434,Asentech,2007,Jai Singh,Medium,50 - 200 employees,Recent
+5435,Onward Technologies,1991,Vijay Balaji,Very High,More than 1000 employees,Mid
+5436,WeRize,2019,Nisha Sharma,Medium,50 - 200 employees,Start-up
+5437,AHAsolar,2017,Kanchan Pawar,Low,10 - 50 employees,Start-up
+5438,IDP Education,1969,Priyanka Patra,Very High,More than 1000 employees,Mid
+5439,IMG Global Infotech,2014,Img Global Infotech HR,Medium,50 - 200 employees,Recent
+5440,Loop Kitchen,2022,Ravi Dubey,Very Low,0 - 10 employees,Start-up
+5441,Volvo Martial Motors,2012,Fathima Zoya,Semi High,200 - 500 employees,Recent
+5442,Bidgely,2010,Shamim Siddiqui,Semi High,200 - 500 employees,Recent
+5443,Emporiom Digital,2014,Madhulika Khatri,Low,10 - 50 employees,Recent
+5444,TrekNomads,2016,Talent Acquisition Team,Very Low,0 - 10 employees,Start-up
+5445,Hub,2021,Roshan Muniraj,Medium,50 - 200 employees,Start-up
+5446,Pilgrim,2019,Shreya Rajgopal,Low,10 - 50 employees,Start-up
+5447,Scaler Academy,2019,Manzar Imam,Medium,50 - 200 employees,Start-up
+5448,TravClan,2018,Astha Vig,Low,10 - 50 employees,Start-up
+5449,Gumlet,2019,Anusha J,Low,10 - 50 employees,Start-up
+5450,PACE Group Of Companies,1995,Aarthi P,High,500 - 1000 employees,Mid
+5451,PrivateCircle,2015,Osama Khan,Low,10 - 50 employees,Start-up
+5452,Techradiance,2015,Pulkit Gaur,Low,10 - 50 employees,Start-up
+5453,3 Minds Digital,2016,Muni Reddy Yerrappa,Low,10 - 50 employees,Start-up
+5454,Bluetris Technologies,2019,Mohit Bhagwani,Low,10 - 50 employees,Start-up
+5455,MindTickle,2012,Shama Afroj,Semi High,200 - 500 employees,Recent
+5456,Playtoome,2016,Nisha Sharma,Low,10 - 50 employees,Start-up
+5457,Barco,1934,Srikanth Alladi,Very High,More than 1000 employees,Early
+5458,Mobile Programming,2000,Chandni Oli,Very High,More than 1000 employees,Recent
+5459,Amazon Ads,2010,Sasikumar S,Very High,More than 1000 employees,Recent
+5460,Hi-Tech Robotic Systemz,2014,Siddhartha S,High,500 - 1000 employees,Recent
+5461,Porter,2014,Satyajit Kumar Mittra,High,500 - 1000 employees,Recent
+5462,CommerceIQ,2012,Tanvi Sinha,Semi High,200 - 500 employees,Recent
+5463,Niro,2021,Ramya Shetty,Low,10 - 50 employees,Start-up
+5464,Nucleus Software,1986,Nikki Bhoj,Very High,More than 1000 employees,Mid
+5465,ZoomInfo,2000,Prasanna Rajendran,Very High,More than 1000 employees,Recent
+5466,Atorus,2012,Megha B,Low,10 - 50 employees,Recent
+5467,Give,2000,Swati S Bhardwaj,Semi High,200 - 500 employees,Recent
+5468,Integral Technologies,2022,Bhavna Rana,Very Low,0 - 10 employees,Start-up
+5469,Jodo,2020,Seemi Ejaz,Low,10 - 50 employees,Start-up
+5470,Newton School,2019,Sirin Riaz,Semi High,200 - 500 employees,Start-up
+5471,Chargeup,2019,Vandana Hirey,Low,10 - 50 employees,Start-up
+5472,CloudifyOps,2016,Nirmala N Naik,Low,10 - 50 employees,Start-up
+5473,DK Business Patron,2006,Simran Rajput Hr,Semi High,200 - 500 employees,Recent
+5474,Paperflite,2016,Reeba Arshad,Medium,50 - 200 employees,Start-up
+5475,Webs Optimization Software Solution,2013,Hardik Vaidya,Medium,50 - 200 employees,Recent
+5476,Mahindra Insurance Brokers,2004,Priyanka Patra,High,500 - 1000 employees,Recent
+5477,Sagarsoft,1996,Vadada Shanmukha Sreenivas,Semi High,200 - 500 employees,Mid
+5478,Level AI,2018,Venkatesh Tangirala,Low,10 - 50 employees,Start-up
+5479,Motilal Oswal Financial Services,1987,Suraj Gupta,Very High,More than 1000 employees,Mid
+5480,Predators Network,2017,Gaurav Ghosh,Very Low,0 - 10 employees,Start-up
+5481,Aerchain,2016,Saranya R,Low,10 - 50 employees,Start-up
+5482,GrapeCity,1980,Tulika Srivastava,High,500 - 1000 employees,Mid
+5483,Simplify360,2012,Career S,Medium,50 - 200 employees,Recent
+5484,Spendflo,2020,Aience Boruah,Low,10 - 50 employees,Start-up
+5485,Teamware Solutions,2003,Vinod Kumar,Very High,More than 1000 employees,Recent
+5486,Apps10X,2018,Aneesa Pathan,Low,10 - 50 employees,Start-up
+5487,Brandtorch,2019,Neha Bowlekar,Low,10 - 50 employees,Start-up
+5488,SNVA Ventures,2009,Preeti Sadaiya,High,500 - 1000 employees,Recent
+5489,LeadSquared,2012,Sandhiya S,Semi High,200 - 500 employees,Recent
+5490,One Muthoot,2016,Rahul Prakash,Very High,More than 1000 employees,Start-up
+5491,OnGrid,2016,Ayushi Rawat,Semi High,200 - 500 employees,Start-up
+5492,TechStar Group,2002,Simran Jagtiani,Semi High,200 - 500 employees,Recent
+5493,Carelon,2022,Archana Manne,Very High,More than 1000 employees,Start-up
+5494,Clear,2011,Shoyeeb Ahamed Magami,Very High,More than 1000 employees,Recent
+5495,interface.ai,2019,Simran Khanna,Medium,50 - 200 employees,Start-up
+5496,Lokal,2018,Visshnu Vyshag,Medium,50 - 200 employees,Start-up
+5497,MOBtexting,2012,Madhumitha Sampathkumar,Medium,50 - 200 employees,Recent
+5498,Neeman's,2018,Raman K,Low,10 - 50 employees,Start-up
+5499,BYJU'S,2011,Muskan Grover,Very High,More than 1000 employees,Recent
+5500,Carelon Global Solutions,2017,Nirosha Yalawar,Very High,More than 1000 employees,Start-up
+5501,Citrix,1989,Smrudhi Gauns,Very High,More than 1000 employees,Mid
+5502,Nov,1841,Kavya Shegde,Very High,More than 1000 employees,Early
+5503,Squared Circle E-Com,2019,Ekta V,Semi High,200 - 500 employees,Start-up
+5504,GetVantage,2019,Basif Akram,Low,10 - 50 employees,Start-up
+5505,GyanDhan,2015,Asmita Gupta,Low,10 - 50 employees,Start-up
+5506,Leena AI,2015,Rekha Singh,Semi High,200 - 500 employees,Start-up
+5507,Reliance Jio,2016,Bhawana Singh,High,500 - 1000 employees,Start-up
+5508,Freeskout,2020,Virtika Sehgal,Semi High,200 - 500 employees,Start-up
+5509,Meeraq,2022,Jai Prakash,Low,10 - 50 employees,Start-up
+5510,Saltside Technologies,2011,Vandana Bali,High,500 - 1000 employees,Recent
+5511,SDLC Corp,2015,Atharv Trivedi,Medium,50 - 200 employees,Start-up
+5512,BlackLight Studio Works,2011,Kanupriya Bhatia,Low,10 - 50 employees,Recent
+5513,CloudBloom,2017,Aishwarya Rana,Medium,50 - 200 employees,Start-up
+5514,Hectar India Trading,2021,Kalpana Gaur,Low,10 - 50 employees,Start-up
+5515,My Value Trip,2014,Haseena Banu,Semi High,200 - 500 employees,Recent
+5516,Nightfall,2019,Sabina Sultana,Low,10 - 50 employees,Start-up
+5517,Quantum,1995,Tejashree L,High,500 - 1000 employees,Mid
+5518,VapprTech,2021,Sonal Thakre,Low,10 - 50 employees,Start-up
+5519,AXISCADES,1998,A Prerana Tirkey,Very High,More than 1000 employees,Mid
+5520,Brilliance,2019,Kusha Bedre,Low,10 - 50 employees,Start-up
+5521,Infosys BPM,2002,Monica Shiney Jeyam,Very High,More than 1000 employees,Recent
+5522,Invansys Technologies,2005,Amanpreet Singh,Low,10 - 50 employees,Recent
+5523,KSBM Infotech,2013,Balvinder Singh,Medium,50 - 200 employees,Recent
+5524,Cerence,2019,Sandhiya S,Very High,More than 1000 employees,Start-up
+5525,CYK Hospitalities,2019,Sakshi Dhiman,Low,10 - 50 employees,Start-up
+5526,Datacultr,2020,Momeena A,Low,10 - 50 employees,Start-up
+5527,GoalTeller,2020,Adharsh A,Low,10 - 50 employees,Start-up
+5528,Ixly Technologies,2012,Divyaa D,Low,10 - 50 employees,Recent
+5529,3Frames Lab,2010,Saksham Sharma,Low,10 - 50 employees,Recent
+5530,BluSapphire Cyber Systems,2014,Arun Ks,Low,10 - 50 employees,Recent
+5531,Khabri Audio Platform,2017,Paankhuri Aggarwal,Low,10 - 50 employees,Start-up
+5532,Motherson Sumi Systems,1986,Oshin Garg,Very High,More than 1000 employees,Mid
+5533,Arthmate,2020,Anjali Nair,Low,10 - 50 employees,Start-up
+5534,Bradsol,2014,Swapnil Khandare,Medium,50 - 200 employees,Recent
+5535,eNoah,2006,Khushboo Bhatia,Very High,More than 1000 employees,Recent
+5536,IBM,1911,Vijay Tekumudi,Very High,More than 1000 employees,Early
+5537,JMR Infotech,2007,Naga Sravanthi,Semi High,200 - 500 employees,Recent
+5538,Keywords Studios,1998,Rajan Gupta,Very High,More than 1000 employees,Mid
+5539,LambdaTest,2017,Madhuri Sandur,Semi High,200 - 500 employees,Start-up
+5540,Adalwin Tech / Yoola App,2015,Himani Goyal,Low,10 - 50 employees,Start-up
+5541,Protouch,2018,Shubham Karwariya,Low,10 - 50 employees,Start-up
+5542,Tata Elxsi,1989,Sunil Gupta,Very High,More than 1000 employees,Mid
+5543,BARC India,2013,Blessy Fernandes,Low,10 - 50 employees,Recent
+5544,Benzinga,2010,Neer Varshney,Medium,50 - 200 employees,Recent
+5545,KLAY Preschool and Daycare,2011,Jai Nayak,Very High,More than 1000 employees,Recent
+5546,PeerXP Technologies,2015,Sweta Sharma,Low,10 - 50 employees,Start-up
+5547,Skillikz,2020,Mirza Begum,Medium,50 - 200 employees,Start-up
+5548,Varistor Technologies,2016,Akshaya Gupta,Medium,50 - 200 employees,Start-up
+5549,Default,2020,Akshit Rungta,Low,10 - 50 employees,Start-up
+5550,Intelehealth,2018,Consult Bae,Low,10 - 50 employees,Start-up
+5551,NimbusPost,2014,Preety,Medium,50 - 200 employees,Recent
+5552,Pazago,2023,Shubha Naik,Low,10 - 50 employees,Start-up
+5553,1mg,2015,Shubham Chauhan,High,500 - 1000 employees,Start-up
+5554,Blue Yonder,1985,Priyanka Kaushal,Very High,More than 1000 employees,Mid
+5555,TO THE NEW,2008,Mehul Jain,Very High,More than 1000 employees,Recent
+5556,Acies,2018,Technocodz Group Hr Manager,Low,10 - 50 employees,Start-up
+5557,Blackberrys Menswear,1991,Ankita Yadav,High,500 - 1000 employees,Mid
+5558,JiyoFullest,2017,Shalini Kumar,Very Low,0 - 10 employees,Start-up
+5559,Optmyzr,2013,Neena John Kurian,Low,10 - 50 employees,Recent
+5560,Talentedge,2012,Samrita Sam,Semi High,200 - 500 employees,Recent
+5561,ZFW Dark Stores,2021,Atul Kumar,Low,10 - 50 employees,Start-up
+5562,Baazi Games,2014,Raj Jha,Semi High,200 - 500 employees,Recent
+5563,Broadridge,1962,Aruna Bahuguna,Very High,More than 1000 employees,Mid
+5564,BrowserStack,2011,Sweta Barman,Medium,50 - 200 employees,Recent
+5565,Docsumo,2018,Celina Mittal,Low,10 - 50 employees,Start-up
+5566,HighLevel,2018,Rini Shah,Medium,50 - 200 employees,Start-up
+5567,IndiaMART InterMESH,1999,Arsha Pillai,Very High,More than 1000 employees,Mid
+5568,Zell Education,2015,Nagesh Nandala,Low,10 - 50 employees,Start-up
+5569,AXS Solutions,2012,Sonali Betkar,Low,10 - 50 employees,Recent
+5570,Designoweb,2014,Maninder Singh,Medium,50 - 200 employees,Recent
+5571,Goavega Software,2014,Kartik M,Medium,50 - 200 employees,Recent
+5572,inFeedo,2016,Richa Anchan,Medium,50 - 200 employees,Start-up
+5573,Paktolus Solutions,2002,Kanika Agarwal,Medium,50 - 200 employees,Recent
+5574,TeamLease Regtech,2013,Zoya Khan,Medium,50 - 200 employees,Recent
+5575,Brisa Technologies,2009,Suman Aditya Behera,Medium,50 - 200 employees,Recent
+5576,NowFloats,2012,Ashish K,Semi High,200 - 500 employees,Recent
+5577,Sopra Steria,1968,Karthick Natarajan,Very High,More than 1000 employees,Mid
+5578,Junglee Games,2012,Arjun Adlakha,Semi High,200 - 500 employees,Recent
+5579,Paytm Payments Bank,2017,Saurabh Gupta,High,500 - 1000 employees,Start-up
+5580,Priceline,1998,Sanober Shaikh,High,500 - 1000 employees,Mid
+5581,Kuvera,2016,Richa Mishra,Low,10 - 50 employees,Start-up
+5582,eG Innovations,2001,Neela Megan,Medium,50 - 200 employees,Recent
+5583,Kickdrum,2012,Rituparna Borah,Low,10 - 50 employees,Recent
+5584,Wayfair,2002,Reno Mathew,Very High,More than 1000 employees,Recent
+5585,Ashok Leyland,1948,Sweta Barman,Very High,More than 1000 employees,Early
+5586,Bipp,2017,Sonica Singh,Low,10 - 50 employees,Start-up
+5587,Bluecore,2013,Akshatha Hydri,Medium,50 - 200 employees,Recent
+5588,Infrasoft Technologies,1995,Swati Agrawal,Very High,More than 1000 employees,Mid
+5589,Mantra Labs,2009,Rishita Banerjee,Medium,50 - 200 employees,Recent
+5590,Beaconstac HQ,2019,Blessy Fernandes,Low,10 - 50 employees,Start-up
+5591,CTE International,2016,Hrd CTE International,Low,10 - 50 employees,Start-up
+5592,myGate,2016,Kumar K,High,500 - 1000 employees,Start-up
+5593,Probo,2019,Priyanka Agarwal,Medium,50 - 200 employees,Start-up
+5594,Hospitality Minds,2016,Anjali Parakkal,Low,10 - 50 employees,Start-up
+5595,SyManSys Technologies India,2013,Chanchal Jugran,Medium,50 - 200 employees,Recent
+5596,CrossAsyst Infotech,2019,Samiksha M,Medium,50 - 200 employees,Start-up
+5597,GIGL,2019,Pashaula Hima,Low,10 - 50 employees,Start-up
+5598,ImageKit.io,2016,Aarthi P,Very Low,0 - 10 employees,Start-up
+5599,OneTrust,2016,Anoushka Goswami,Very High,More than 1000 employees,Start-up
+5600,Alaric Ventures,2018,Aliza Vohra,Semi High,200 - 500 employees,Start-up
+5601,Amagi Corporation,2008,Jiby Thomas,Semi High,200 - 500 employees,Recent
+5602,Sainapse,2017,Garnet Chaves,Low,10 - 50 employees,Start-up
+5603,Sportsbuzz,2022,Rohini N,Medium,50 - 200 employees,Start-up
+5604,Stanza Living,2017,Vishal Chaudhary,Very High,More than 1000 employees,Start-up
+5605,Gameskraft,2017,Ravindra Rathod,Semi High,200 - 500 employees,Start-up
+5606,Kmart,1962,Swapnil Nautiyal,Very High,More than 1000 employees,Mid
+5607,LogiNext,2014,Muskan Singh,Medium,50 - 200 employees,Recent
+5608,MakeStories,2012,Dheeraj Bhardwaj,Low,10 - 50 employees,Recent
+5609,Amar Ujala Publications,1948,Gulshan Jangid,Very High,More than 1000 employees,Early
+5610,D. E. Shaw,1988,Akriti Singh,Very High,More than 1000 employees,Mid
+5611,Almabase,2013,Akshaja Manoharan,Low,10 - 50 employees,Recent
+5612,Cypherock,2018,Rishi Thomas,Low,10 - 50 employees,Start-up
+5613,Sigmoid,2013,Shikha Chauhan,High,500 - 1000 employees,Recent
+5614,SourceFuse Technologies,2006,Shubham,Semi High,200 - 500 employees,Recent
+5615,Spybrick Technologies,2020,Rajesh N,Very Low,0 - 10 employees,Start-up
+5616,Wakefit,2014,Vignesvaran Ar,Medium,50 - 200 employees,Recent
+5617,Comgen India Software Solution,2002,Devi Palanisamy,Low,10 - 50 employees,Recent
+5618,Zinier,2015,Ankit Dhiman,Semi High,200 - 500 employees,Start-up
+5619,Aeries Technology Group,2012,Rakesh Kundu Immediate Joinerproduc,Semi High,200 - 500 employees,Recent
+5620,AST SpaceMobile,2017,Joanna Lee,Medium,50 - 200 employees,Start-up
+5621,SC Ventures,2015,Joanna Lee,Very Low,0 - 10 employees,Start-up
+5622,Uolo,2020,Bharti Pundir,Medium,50 - 200 employees,Start-up
+5623,Publicis Sapient,1990,Amit Rai,Very High,More than 1000 employees,Mid
+5624,Syfe,2018,Bharti Arora,Medium,50 - 200 employees,Start-up
+5625,Walkaroo International,2014,Madhulika Khatri,Very High,More than 1000 employees,Recent
+5626,Atlys,2020,Jaya Harjai,Low,10 - 50 employees,Start-up
+5627,EG,1978,Rencia Dsouza,Very High,More than 1000 employees,Mid
+5628,PasarPolis,2015,Pasarpolis India Technology Recruitment,Medium,50 - 200 employees,Start-up
+5629,PrepLadder,2015,Haseena Banu,Semi High,200 - 500 employees,Start-up
+5630,Elegant Marketing,2014,Aanchal Arora,Very Low,0 - 10 employees,Recent
+5631,EzyCerts Solutions,2020,Ezycerts Solutions,Very Low,0 - 10 employees,Start-up
+5632,Proactive for her,2020,Dipangshi Raychoudhury,Very Low,0 - 10 employees,Start-up
+5633,Advarisk,2016,Vaishali Morey,Low,10 - 50 employees,Start-up
+5634,Anarock,2017,Malem Thokchom,Very High,More than 1000 employees,Start-up
+5635,Benesse India,2022,Avjyot,Very High,More than 1000 employees,Start-up
+5636,Cipla,1935,Chetan C,Very High,More than 1000 employees,Early
+5637,Fincobox,2021,Aparna Rajkhowa,Low,10 - 50 employees,Start-up
+5638,Havas Media,1978,Varshini R,Very High,More than 1000 employees,Mid
+5639,Buyogo,2020,Diksha Sadudia,Medium,50 - 200 employees,Start-up
+5640,Goldcast,2020,Manish Nirwal,Very Low,0 - 10 employees,Start-up
+5641,imagine.io,2016,Agnes S,Medium,50 - 200 employees,Start-up
+5642,Quest Global Technologies,2013,Anushree Dhakate,Medium,50 - 200 employees,Recent
+5643,Zfunds,2019,Tanya Tripathi,Low,10 - 50 employees,Start-up
+5644,JP Morgan,1900,Shiny Angel,Very High,More than 1000 employees,Early
+5645,Sourcewiz,2021,Mustafa Arif,Low,10 - 50 employees,Start-up
+5646,The Yarn Bazaar,2019,Misha Yadav,Low,10 - 50 employees,Start-up
+5647,TJX,1987,Megha Dave,Very High,More than 1000 employees,Mid
+5648,CloudJournee,2016,Aswini Kk,Low,10 - 50 employees,Start-up
+5649,Dhwani Rural Information Systems,2016,Sanjay Parihar,Very Low,0 - 10 employees,Start-up
+5650,Fairmatic,2019,Nitya Dhingra,Medium,50 - 200 employees,Start-up
+5651,Immedis,1996,Harshitha S,Semi High,200 - 500 employees,Mid
+5652,NStarX,2014,Venkatesh Palani,Medium,50 - 200 employees,Recent
+5653,Flexiloans,2016,Geeti,Semi High,200 - 500 employees,Start-up
+5654,MCSAM,2011,Purvi Aggarwal,Low,10 - 50 employees,Recent
+5655,RadicalStart,2017,Manjusha M,Low,10 - 50 employees,Start-up
+5656,Zuma,2021,Anoushka Goswami,Low,10 - 50 employees,Start-up
+5657,Goalkeep,2020,Manije Kelkar,Very Low,0 - 10 employees,Start-up
+5658,Licious,2015,Praful,Very High,More than 1000 employees,Start-up
+5659,Refactor Academy,2022,Arjun Chakraborti,Low,10 - 50 employees,Start-up
+5660,TechNeurons Consulting Solutions,2009,Shreeraj Kurup,Low,10 - 50 employees,Recent
+5661,AppIncubator,2019,Nimisha Sharma,Medium,50 - 200 employees,Start-up
+5662,Only Much Louder,2001,Khushi Dubey,Medium,50 - 200 employees,Recent
+5663,T7E Aftermarket Connect,2014,Shreeraj Kurup,Low,10 - 50 employees,Recent
+5664,Tredence Inc,2013,Pinnacle Consultz,High,500 - 1000 employees,Recent
+5665,VMock,2009,Yamini Mahajan,Medium,50 - 200 employees,Recent
+5666,Xyram Software Solutions,2014,Suchismita De,Low,10 - 50 employees,Recent
+5667,BankBazaar.com,2008,Ilakkiya R,Very High,More than 1000 employees,Recent
+5668,CreditVidya,2013,Reshma Gutha,Medium,50 - 200 employees,Recent
+5669,Antrepriz,2017,Shraboni Guha,Low,10 - 50 employees,Start-up
+5670,Qualitia Software,2011,Sayali Thakur,Semi High,200 - 500 employees,Recent
+5671,slice,2016,Prakriti Srivastava,Very High,More than 1000 employees,Start-up
+5672,WidasConcepts India,2015,Subhashree Mallick,Medium,50 - 200 employees,Start-up
+5673,BooksApp,2017,Nandha Kumar,Very Low,0 - 10 employees,Start-up
+5674,GalaxyCard,2017,Kashish Sharma,Very Low,0 - 10 employees,Start-up
+5675,Karza Technologies,2015,Muskan Jaiswal,Low,10 - 50 employees,Start-up
+5676,Quovantis Technologies,2010,Tripti Saxena,Semi High,200 - 500 employees,Recent
+5677,RapidQube Digital Solutions,2016,Rajkumar V,Medium,50 - 200 employees,Start-up
+5678,TCY Learning Solutions,2000,Tripti Machal,Semi High,200 - 500 employees,Recent
+5679,JKL Infotech,2019,Mansi Gor,Low,10 - 50 employees,Start-up
+5680,Larsen & Toubro,1938,Mohammed Khan,Very High,More than 1000 employees,Early
+5681,Leap Finance,2019,Monika Bhandari,Medium,50 - 200 employees,Start-up
+5682,Novo,2016,Nipunika Reddy,Medium,50 - 200 employees,Start-up
+5683,TruckX,2016,Annu Rekha,Medium,50 - 200 employees,Start-up
+5684,UrbanPiper,2016,Mohit Sharma,Low,10 - 50 employees,Start-up
+5685,iamneo,2016,Thenambika S,Medium,50 - 200 employees,Start-up
+5686,WheelsEye,2017,Riya Jumnani,Semi High,200 - 500 employees,Start-up
+5687,Wits Innovation Lab,2019,Hardik Thapa,Medium,50 - 200 employees,Start-up
+5688,BambooBox,2020,Ankita Samant,Low,10 - 50 employees,Start-up
+5689,Pure Storage,2009,Praison Xavier,Very High,More than 1000 employees,Recent
+5690,Solvei8,2023,Pratiksha Pandey,Medium,50 - 200 employees,Start-up
+5691,Grant Thornton,1924,Lithin Raj,Very High,More than 1000 employees,Early
+5692,ZapCom,2014,Prajna A,Medium,50 - 200 employees,Recent
+5693,Areya Technologies,2019,Sruthi P,Low,10 - 50 employees,Start-up
+5694,iThrive,2019,Shubha Naik,Low,10 - 50 employees,Start-up
+5695,LitmusWorld,2015,Talent Acquisition Team,Medium,50 - 200 employees,Start-up
+5696,mPokket,2016,Debapti Roy,Very High,More than 1000 employees,Start-up
+5697,Banfico,2017,Renjith Kumar Nataraj,Medium,50 - 200 employees,Start-up
+5698,Infocore Engineering & IT Services Group,2014,Mariya Pius,Low,10 - 50 employees,Recent
+5699,Kombai,2022,Anusha J,Very Low,0 - 10 employees,Start-up
+5700,Sonovision Aetos,2006,Sukumari Poojari,Semi High,200 - 500 employees,Recent
+5701,DevOn,2004,Subhashish S,High,500 - 1000 employees,Recent
+5702,GroMo,2019,Priya Desai,Medium,50 - 200 employees,Start-up
+5703,Web Widers,2016,Urvashi Gowda,Low,10 - 50 employees,Start-up
+5704,Cosmonet Solutions,1998,Benjamin S,Medium,50 - 200 employees,Mid
+5705,Pegasystems,1983,Rohit Gajjala,Very High,More than 1000 employees,Mid
+5706,Absolute Finserve,2019,Jai Nayak,Low,10 - 50 employees,Start-up
+5707,Neufin,2022,Blessy Fernandes,Very Low,0 - 10 employees,Start-up
+5708,Audify,2019,Kalpna Farswan,Low,10 - 50 employees,Start-up
+5709,Axioned,2006,Sangeeta Poojari,Medium,50 - 200 employees,Recent
+5710,Fanatics,2002,Harshitha Macha,Very High,More than 1000 employees,Recent
+5711,Nanonets,2016,Soumya A,Low,10 - 50 employees,Start-up
+5712,TATA Communications,2002,Priyanshi Singhal,Very High,More than 1000 employees,Recent
+5713,Zycus,1998,Apurva Shetty,Very High,More than 1000 employees,Mid
+5714,Aidas Technologies,2016,Venkhatesh Ayyappan,Low,10 - 50 employees,Start-up
+5715,Akkodis,1984,Rajath Gv,Very High,More than 1000 employees,Mid
+5716,Joveo,2016,Tulika Shome,Medium,50 - 200 employees,Start-up
+5717,Nyteco,2019,Aasha Jeniffer,Low,10 - 50 employees,Start-up
+5718,Sequoia Consulting Group,2001,Onyx Lakra,Semi High,200 - 500 employees,Recent
+5719,Unbxd,2011,Ashwini Rangasamy,Medium,50 - 200 employees,Recent
+5720,VComply Technologies,2019,Ekta Singh,Low,10 - 50 employees,Start-up
+5721,Acceldata,2018,Daksh Pokhriyal,Medium,50 - 200 employees,Start-up
+5722,dharma.h Software Technologies,2016,Anirudh Singhania,Low,10 - 50 employees,Start-up
+5723,Invidi Technologies Corporation,2000,Sonal Shukla,Medium,50 - 200 employees,Recent
+5724,Elever,2020,Mubina,Low,10 - 50 employees,Start-up
+5725,Trinity Mobile App Lab,2013,Shruti Singh,Low,10 - 50 employees,Recent
+5726,Naresh i Technologies,2004,Sony Naresh IT,Medium,50 - 200 employees,Recent
+5727,Second Medic,2019,Karuna Pandey,Low,10 - 50 employees,Start-up
+5728,ToothSi,2018,Jagruti Surve,Semi High,200 - 500 employees,Start-up
+5729,BPAC IT Solution,2009,Venkatesh Uci,Very Low,0 - 10 employees,Recent
+5730,GoPaisa,2012,Swati Narayan,Low,10 - 50 employees,Recent
+5731,IdeaCrest Solutions,2013,Ravi Sivaraman,Medium,50 - 200 employees,Recent
+5732,Tata AIG,2000,Samiksha M,Very High,More than 1000 employees,Recent
+5733,75way Technologies,2015,Hr Manager,Low,10 - 50 employees,Start-up
+5734,Broadway Communication,2017,Ishita Goyal,Low,10 - 50 employees,Start-up
+5735,Nected,2022,Roshan Muniraj,Very Low,0 - 10 employees,Start-up
+5736,Supermoney,2018,Tejal Kushalkar,Medium,50 - 200 employees,Start-up
+5737,SignalX,2018,Tanisha Ray,Very Low,0 - 10 employees,Start-up
+5738,Spry Health,2013,Khushi Dubey,Low,10 - 50 employees,Recent
+5739,ThoughtSpot,2012,Valentina Dsouza,High,500 - 1000 employees,Recent
+5740,Tripadvisor,2000,John Anthony Naveen,Very High,More than 1000 employees,Recent
+5741,Just Creativo,2014,Beatrice Wesley,Medium,50 - 200 employees,Recent
+5742,Potentiam,2016,Dipanjan Das,Medium,50 - 200 employees,Start-up
+5743,Bosch India,1922,Neha Dalvi,Very High,More than 1000 employees,Early
+5744,Innow8 Apps,2016,Mehak Valecha,Low,10 - 50 employees,Start-up
+5745,Signzy,2015,Ritesh Singh,Medium,50 - 200 employees,Start-up
+5746,WorkIndia,2015,Tavva Suvarna,High,500 - 1000 employees,Start-up
+5747,BCS Technology,2001,Niha Lini,Semi High,200 - 500 employees,Recent
+5748,Buzz Sports,2021,Rohini N,Very Low,0 - 10 employees,Start-up
+5749,Wiom,2020,Adit Goel,Low,10 - 50 employees,Start-up
+5750,HealthPlix,2014,Heenal Thakrar,Medium,50 - 200 employees,Recent
+5751,MOURI Tech,2005,Sowmya Shree Bg,Very High,More than 1000 employees,Recent
+5752,Qi Ventures,2021,Shubha Naik,Low,10 - 50 employees,Start-up
+5753,Cloud Converge,2022,Nisha Sharma,Low,10 - 50 employees,Start-up
+5754,Ferns N Petals,1994,Aishwarya Goyal,Semi High,200 - 500 employees,Mid
+5755,OptIQ.AI,2021,Swatee Paithankar,Very Low,0 - 10 employees,Start-up
+5756,Vaaree,2022,Sibi K,Very Low,0 - 10 employees,Start-up
+5757,Clari,2012,Manasranjan Giri,High,500 - 1000 employees,Recent
+5758,Hilton Global Technologies,2013,Omkar Sonawane,Medium,50 - 200 employees,Recent
+5759,Jabra,1869,Samiksha M,Very High,More than 1000 employees,Early
+5760,TorcAI Digital Media,2017,Technocodz Group Hr Manager,Medium,50 - 200 employees,Start-up
+5761,Ati Motors,2017,Priyadharshini Gunasekaran,Low,10 - 50 employees,Start-up
+5762,Avis Budget Group,1946,Shiva Sharai,Very High,More than 1000 employees,Early
+5763,BharatPe,2018,Priyanka Sharma,Medium,50 - 200 employees,Start-up
+5764,Jio Platforms Limited,2019,Sakshi Sahu,Very High,More than 1000 employees,Start-up
+5765,Omka Tech,2019,Omka Tech,Low,10 - 50 employees,Start-up
+5766,CavinKare,1983,Shalini,Very High,More than 1000 employees,Mid
+5767,NoBroker,2014,Aditya Dev,Very High,More than 1000 employees,Recent
+5768,Wadhwani AI,2018,Silky Malik,Low,10 - 50 employees,Start-up
+5769,Freshtohome.com,2015,Himanshu Suman,High,500 - 1000 employees,Start-up
+5770,Moback,2011,Anup Devadiga,Medium,50 - 200 employees,Recent
+5771,Tescra Software,2002,Saher Saba,High,500 - 1000 employees,Recent
+5772,Elucidata,2015,Meghna Dey,Medium,50 - 200 employees,Start-up
+5773,i95Dev,2000,Shikha Jain,Semi High,200 - 500 employees,Recent
+5774,Aditya Trading Solutions,2003,Suchi Sharma,Semi High,200 - 500 employees,Recent
+5775,JNET Technologies,2006,P Purnima,High,500 - 1000 employees,Recent
+5776,Reliance Nippon Life Insurance,2000,Aquib Javed,Very High,More than 1000 employees,Recent
+5777,Witzeal Technologies,2016,Danish Khan,Medium,50 - 200 employees,Start-up
+5778,Acko,2017,Diptiranjan Pradhan,Medium,50 - 200 employees,Start-up
+5779,Orzel Infotech,2022,Meher Kaur,Very Low,0 - 10 employees,Start-up
+5780,Troo,2022,Qikrecruit,Very Low,0 - 10 employees,Start-up
+5781,Mphasis,1998,Stephina,Very High,More than 1000 employees,Mid
+5782,Persistent Systems,1990,Rishu Yadav,Very High,More than 1000 employees,Mid
+5783,Sun Life Financial,1900,Sakshi Aggarwal Careernet,Very High,More than 1000 employees,Early
+5784,Visionet Systems,1995,Harshitha S,High,500 - 1000 employees,Mid
+5785,Fossil Watches,1984,Sunitha Dinesh,Very High,More than 1000 employees,Mid
+5786,Laerdal Medical,1940,Shailendra Singh,Very High,More than 1000 employees,Early
+5787,QI Spine,2010,Vinita Krishnamurthi,Medium,50 - 200 employees,Recent
+5788,Skeps,2018,Pardeep Singh,Medium,50 - 200 employees,Start-up
+5789,Tata Capital,2007,Consult Bae,Very High,More than 1000 employees,Recent
+5790,FinAgg,2020,Namrata Grover,Very Low,0 - 10 employees,Start-up
+5791,IBSFINtech,2006,Shilpi Lalotra,Low,10 - 50 employees,Recent
+5792,Unravel,2020,Vikash Singh,Low,10 - 50 employees,Start-up
+5793,Sagoon,2015,Atul Kumar,Low,10 - 50 employees,Start-up
+5794,WedKnott,2019,Abhinav Gandhi,Very Low,0 - 10 employees,Start-up
+5795,Belora Cosmetics,2019,Madhulika Khatri,Low,10 - 50 employees,Start-up
+5796,Definitive Healthcare,2011,Shristi,High,500 - 1000 employees,Recent
+5797,Scalenut,2020,Dharya Aggarwal,Low,10 - 50 employees,Start-up
+5798,Dozee,2015,C Anjana Nagesh,Low,10 - 50 employees,Start-up
+5799,Jaro Education,2009,Neha Yadav,High,500 - 1000 employees,Recent
+5800,PingSafe,2021,Manish Nirwal,Low,10 - 50 employees,Start-up
+5801,Squadcast,2017,Biswajeet Balabantray,Low,10 - 50 employees,Start-up
+5802,TEK Soft Labs,2020,Usha Rani,Low,10 - 50 employees,Start-up
+5803,Zaigo Infotech Software Solutions,2012,Renuka D,Medium,50 - 200 employees,Recent
+5804,Agilite,2019,Agilite Global Solutions Company,Medium,50 - 200 employees,Start-up
+5805,Apelo Consulting,2016,Sanchit Gambhir,Medium,50 - 200 employees,Start-up
+5806,eShopbox,2012,Rayal Rajan,Medium,50 - 200 employees,Recent
+5807,GIST,2011,Divya Shah Nandi,Low,10 - 50 employees,Recent
+5808,MineralTree,2010,Shiva Sharai,Medium,50 - 200 employees,Recent
+5809,OCR,1983,Manish Nirwal,Semi High,200 - 500 employees,Mid
+5810,Oliveboard,2012,Leena Lal,Medium,50 - 200 employees,Recent
+5811,Attackfence,2018,Nisha Sharma,Low,10 - 50 employees,Start-up
+5812,Evolving Systems,1985,Sudhan K N R,Semi High,200 - 500 employees,Mid
+5813,Hex Business Innovations,2006,Sakshi Chaudhary,Low,10 - 50 employees,Recent
+5814,Kotak Mahindra Bank,1985,Rudrakshi Jain,Very High,More than 1000 employees,Mid
+5815,Noodle.ai,2016,Ankita Ghosh,Semi High,200 - 500 employees,Start-up
+5816,Third Rock Techkno,2010,Hr Third Rock Techkno,Low,10 - 50 employees,Recent
+5817,Beyond Seek,2020,Basanth N,Very Low,0 - 10 employees,Start-up
+5818,Open Data Fabric,2019,Vaishali Kumari,Low,10 - 50 employees,Start-up
+5819,Rupeek,2015,Praphullita B,Very High,More than 1000 employees,Start-up
+5820,TheDraftRack,2020,Monojit Dutta Gupta,Very Low,0 - 10 employees,Start-up
+5821,Astra Web Security,2013,Kaustav Phookun,Very Low,0 - 10 employees,Recent
+5822,LoveLocal,2015,Arnab Das,Medium,50 - 200 employees,Start-up
+5823,Zimperium,2010,Anjali Nair,Medium,50 - 200 employees,Recent
+5824,Bombay Shaving Company,2015,Consult Bae,Medium,50 - 200 employees,Start-up
+5825,Cimpress,1995,Shweta Srivastava,Very High,More than 1000 employees,Mid
+5826,Eclat Engineering,2013,Russell Fernandes,Low,10 - 50 employees,Recent
+5827,Concentrix,1983,Riyaz Ahamed,Very High,More than 1000 employees,Mid
+5828,Opkey,2016,Reetu Garg Shrmscp,Semi High,200 - 500 employees,Start-up
+5829,UloApp,2017,Uloapp A New Wave Of Living,Low,10 - 50 employees,Start-up
+5830,Advancells,2005,Deepika Prajapati,Low,10 - 50 employees,Recent
+5831,TreQ,2022,Nidhi Tiwari,Very Low,0 - 10 employees,Start-up
+5832,KC Overseas Edtech,1998,Shalu Sharma,High,500 - 1000 employees,Mid
+5833,Wabtec Corporation,1872,Karthik Ravi,Very High,More than 1000 employees,Early
+5834,TheHouseMonk,2013,Ruchi Gupta,Low,10 - 50 employees,Recent
+5835,UPL,1969,Rohit Joshi,Very High,More than 1000 employees,Mid
+5836,Aagnia Technologies,2016,Karan Er,Low,10 - 50 employees,Start-up
+5837,ALYF,2021,Nisha Sharma,Medium,50 - 200 employees,Start-up
+5838,EasyRewardz,2011,Consult Bae,Medium,50 - 200 employees,Recent
+5839,Mode,2013,Aiman Sayyed,Medium,50 - 200 employees,Recent
+5840,Poises Intel,2021,Siddhartha S,Very Low,0 - 10 employees,Start-up
+5841,Zolo,2015,Siddharth Bhargav,Medium,50 - 200 employees,Start-up
+5842,EXL,1999,Lalith S,Very High,More than 1000 employees,Mid
+5843,InCred Financial Services,2016,Shubham,Very High,More than 1000 employees,Start-up
+5844,Equinix,1998,Sharath Babu,Very High,More than 1000 employees,Mid
+5845,Simulanis Solutions,2013,Pooja Joshi,Medium,50 - 200 employees,Recent
+5846,Busibud,2013,Busibud Hr,Low,10 - 50 employees,Recent
+5847,Concord,2019,Shubham,Very Low,0 - 10 employees,Start-up
+5848,Cohesity,2013,Shweta Santosh Kumar,Very High,More than 1000 employees,Recent
+5849,Rippling,2016,Vinoth Kumar,Very High,More than 1000 employees,Start-up
+5850,Eros International,1977,Komal Jadhwani MBA,High,500 - 1000 employees,Mid
+5851,SourceBae,2022,Bindu Patidar,Low,10 - 50 employees,Start-up
+5852,Autonomo GmbH,2021,Mahendra Bhaskar,Low,10 - 50 employees,Start-up
+5853,EduKyu.com,2016,Sheeba Ganesh,Semi High,200 - 500 employees,Start-up
+5854,OpenText,1991,Udeshna Boruah Kalita,Very High,More than 1000 employees,Mid
+5855,Voice Club,2022,Anjali Nair,Very Low,0 - 10 employees,Start-up
+5856,Electrif AI,2004,Anita Gautam,Semi High,200 - 500 employees,Recent
+5857,Uni Cards,2020,Ajay Kumar,Medium,50 - 200 employees,Start-up
+5858,VDX.tv,2001,Sheetal Gong,High,500 - 1000 employees,Recent
+5859,Amazon Entertainment,1994,Nithya Venkat,Very High,More than 1000 employees,Mid
+5860,EdSanta,2017,Bhanu Prasad,Low,10 - 50 employees,Start-up
+5861,Matellio,2014,Harshit Sharma,Medium,50 - 200 employees,Recent
+5862,Supreme Technologies,2015,Barbie Gupta,Medium,50 - 200 employees,Start-up
+5863,Nexthink,2004,Shree Kavya,High,500 - 1000 employees,Recent
+5864,Indium Software,1999,Preetha Saravanan,Very High,More than 1000 employees,Mid
+5865,N J Group,2020,Siddhartha S,Very Low,0 - 10 employees,Start-up
+5866,National Tenders,2013,Marvel Infocomm,Low,10 - 50 employees,Recent
+5867,Writesonic,2021,Drashti Dawda,Low,10 - 50 employees,Start-up
+5868,Avoma,2017,Ashwani Bhat,Low,10 - 50 employees,Start-up
+5869,eClerx,2000,Vidhi Jain,Very High,More than 1000 employees,Recent
+5870,Lakhnavi Builders,2022,Saloni Verma,Medium,50 - 200 employees,Start-up
+5871,Learnyst Insight,2015,Supriya Kourav,Low,10 - 50 employees,Start-up
+5872,MARG Software Solutions,1998,Rohit Vaish,Semi High,200 - 500 employees,Mid
+5873,Siemens,1900,Sravani Krishna,Very High,More than 1000 employees,Early
+5874,Wigzo,2015,Dashmeet Kaur,Medium,50 - 200 employees,Start-up
+5875,Ecolab,1923,Aishwarya R,Very High,More than 1000 employees,Early
+5876,Media.net,2010,Swapnil Nautiyal,Very High,More than 1000 employees,Recent
+5877,Oneistox,2018,Consult Bae,Low,10 - 50 employees,Start-up
+5878,SmartCow,2016,Qikrecruit,Low,10 - 50 employees,Start-up
+5879,Yarunara Technologies,2017,Sanketa Deshmukh,Low,10 - 50 employees,Start-up
+5880,Creative Galileo,2020,Shahida,Very Low,0 - 10 employees,Start-up
+5881,Hevo Data,2017,Ashna Thakur,Semi High,200 - 500 employees,Start-up
+5882,Infrrd,2017,Anjali Purohit,Semi High,200 - 500 employees,Start-up
+5883,Locus.sh,2015,Saine Ghosal,Semi High,200 - 500 employees,Start-up
+5884,Soft Elevation,2020,HR Recruiter S Consultancy,Low,10 - 50 employees,Start-up
+5885,Vedantu,2014,Abhishek Choudhury,Very High,More than 1000 employees,Recent
+5886,Quisitive,2016,Sravani Krishna,Semi High,200 - 500 employees,Start-up
+5887,Red Line Industries,1996,Divya Shah Nandi,Low,10 - 50 employees,Mid
+5888,Reliance Jio Infocomm,2007,Jhansi Patnaikuni,Very High,More than 1000 employees,Recent
+5889,Seek Rewards,2021,Siddharth Jaiswal,Very Low,0 - 10 employees,Start-up
+5890,Squareshift,2019,Keerthana Rajavel,Low,10 - 50 employees,Start-up
+5891,xto10x,2019,Smaran Rao,Low,10 - 50 employees,Start-up
+5892,Embibe,2012,Shivani Singh,Very High,More than 1000 employees,Recent
+5893,Macrew Technologies,2014,Technocodz Group Hr Manager,Low,10 - 50 employees,Recent
+5894,Masai School,2019,Bhagya Parameswaran,Medium,50 - 200 employees,Start-up
+5895,Techolution,2012,Deebaj Mir,Medium,50 - 200 employees,Recent
+5896,Horizon Global Services,2016,Yashaswini N,Low,10 - 50 employees,Start-up
+5897,Jain Software,2012,Sonali Nagpal,Medium,50 - 200 employees,Recent
+5898,SISA Information Security,2006,Talent Acquisition Team,Semi High,200 - 500 employees,Recent
+5899,TMRW,2022,Vibha Premkumar,Low,10 - 50 employees,Start-up
+5900,VehicleCare,2019,Hr Vehiclecare,Medium,50 - 200 employees,Start-up
+5901,PhaseZero Ventures,2014,Narkish M,Low,10 - 50 employees,Recent
+5902,AptEdge,2019,Saranya R,Low,10 - 50 employees,Start-up
+5903,Kadel Labs,2017,Neha Soni,Medium,50 - 200 employees,Start-up
+5904,ProGrad,2020,Heruba Chandrasekar,Low,10 - 50 employees,Start-up
+5905,Surekha Technologies,2011,Nisha Jinger,Medium,50 - 200 employees,Recent
+5906,VIDA Digital Identity,2018,Chetan C,Low,10 - 50 employees,Start-up
+5907,314e Corporation,2004,Florence Teresa Dcruz,High,500 - 1000 employees,Recent
+5908,Livekeeping,2015,Neha Singh,Medium,50 - 200 employees,Start-up
+5909,Synergy Softwares,1993,Toshi Bhilwar,Medium,50 - 200 employees,Mid
+5910,Conviva,2006,Adarsh Sikarwar,Semi High,200 - 500 employees,Recent
+5911,iBusiness Software,2016,Kusha Bedre,Low,10 - 50 employees,Start-up
+5912,Aubree,2011,Careers Aubree,Low,10 - 50 employees,Recent
+5913,Techminds Group,2007,Afzal Muhammad,Medium,50 - 200 employees,Recent
+5914,DevSys Embedded Technologies,2016,Mahesh Kumar,Low,10 - 50 employees,Start-up
+5915,Morningstar,1984,Ashay Vishwakarma,Very High,More than 1000 employees,Mid
+5916,Kapiva,2016,Soham Bhattacharjee,Medium,50 - 200 employees,Start-up
+5917,KVisionEx,2020,Alok Kale,Very Low,0 - 10 employees,Start-up
+5918,Armorblox,2017,Garima Maheshwari,Low,10 - 50 employees,Start-up
+5919,Mind Admission Solution,2019,Rakesh Sethi,Low,10 - 50 employees,Start-up
+5920,NorthStar Technologies International,2020,Mani Sha,Medium,50 - 200 employees,Start-up
+5921,TechVerito,2016,Garima Motadoo,Medium,50 - 200 employees,Start-up
+5922,Techigai,2020,Rajesh M,Semi High,200 - 500 employees,Start-up
+5923,Vyapar,2016,Suranjan Barman,High,500 - 1000 employees,Start-up
+5924,Appsmith,2019,Blessy Fernandes,Medium,50 - 200 employees,Start-up
+5925,Frankfinn Aviation Services,1993,Madhulika Samala,Very High,More than 1000 employees,Mid
+5926,Ingold Solutions,2019,Suchetana Paul,Medium,50 - 200 employees,Start-up
+5927,Pinkode Realty,2020,Ananya Pandey,Low,10 - 50 employees,Start-up
+5928,StanPlus,2016,Rishabh Mishra,Semi High,200 - 500 employees,Start-up
+5929,Zobaze,2018,Karthik Sutrave,Very Low,0 - 10 employees,Start-up
+5930,Addverb Technologies,2016,Ananya Pandey,Medium,50 - 200 employees,Start-up
+5931,EduRev,2017,Hardik Dhamija,Low,10 - 50 employees,Start-up
+5932,Iron Mountain,1951,Twinkle Bhatnagar,Very High,More than 1000 employees,Mid
+5933,Radisys,1987,Twinkle Bhatnagar,High,500 - 1000 employees,Mid
+5934,Ramailo tech,2017,Shweta Kumari,Low,10 - 50 employees,Start-up
+5935,CRED,2018,Adarsh Pk,Semi High,200 - 500 employees,Start-up
+5936,Loco,2020,Abin Chandra,Medium,50 - 200 employees,Start-up
+5937,WebEngage,2011,Soumya Kerkar,Medium,50 - 200 employees,Recent
+5938,Covideo,2004,Ramya Tanya,Low,10 - 50 employees,Recent
+5939,Loyalytics,2015,Bettina George,Low,10 - 50 employees,Start-up
+5940,Planet,1985,Mayur M L,Very High,More than 1000 employees,Mid
+5941,Setu,2018,Mohit Sharma,Medium,50 - 200 employees,Start-up
+5942,Advanced Infrastructure,2018,Aparna Rajkhowa,Very Low,0 - 10 employees,Start-up
+5943,Airtel X Labs,2018,Kavita Kaushik,Semi High,200 - 500 employees,Start-up
+5944,Carrot,2022,Sukant Kumar,Low,10 - 50 employees,Start-up
+5945,Nineleaps,2014,Bhavya M,Semi High,200 - 500 employees,Recent
+5946,Geezy,2020,Blessy Fernandes,Low,10 - 50 employees,Start-up
+5947,Ximkart,2021,Nisha Sharma,Low,10 - 50 employees,Start-up
+5948,Tarento Technologies,2010,Krishnam Raju Kadari,Medium,50 - 200 employees,Recent
+5949,Aptiv Technical Centre,1994,Omkar Sonawane,Very High,More than 1000 employees,Mid
+5950,Inshorts,2013,Shubham,High,500 - 1000 employees,Recent
+5951,Anko,2018,Swapnil Nautiyal,Semi High,200 - 500 employees,Start-up
+5952,Camncloud,2015,Durga Prasad Godhana,Very Low,0 - 10 employees,Start-up
+5953,Eureka Forbes,1982,Arun Sreenivasan,Very High,More than 1000 employees,Mid
+5954,Ketto,2012,Ansa Swereva,Low,10 - 50 employees,Recent
+5955,Observe.AI,2017,Rukmi Dhar,Medium,50 - 200 employees,Start-up
+5956,Truemeds India,2018,Shubham Bhardwaj,Low,10 - 50 employees,Start-up
+5957,GroupM,1995,Surabhi Deo,Very High,More than 1000 employees,Mid
+5958,Jar,2020,Sushant Arya,Low,10 - 50 employees,Start-up
+5959,AstraZeneca,1999,Santoshi Potnuru,Very High,More than 1000 employees,Mid
+5960,TimesPro,2007,Haseena Banu,Semi High,200 - 500 employees,Recent
+5961,Zapbuild,2010,Sakshi Bhardwaj,Semi High,200 - 500 employees,Recent
+5962,Codeflies Technologies,2015,Kajal Mansoori,Low,10 - 50 employees,Start-up
+5963,Kunato.Ai,2021,Sharmila M,Low,10 - 50 employees,Start-up
+5964,Shiprocket,2012,Kailuni Lanah,High,500 - 1000 employees,Recent
+5965,Madras Mandi,2020,Namrata Maidur,Medium,50 - 200 employees,Start-up
+5966,RandomTrees,2017,Hari Prasad,High,500 - 1000 employees,Start-up
+5967,FourthPointer Services,2012,Urvashi Yadav,Medium,50 - 200 employees,Recent
+5968,Unique Measurement Service,2015,Human Resources Ums,Medium,50 - 200 employees,Start-up
+5969,Bonatra,2022,Sakshi Anand,Low,10 - 50 employees,Start-up
+5970,EquityList,2020,Dharya Aggarwal,Very Low,0 - 10 employees,Start-up
+5971,Puravankara,1975,Kusha Bedre,High,500 - 1000 employees,Mid
+5972,ItsaCheckmate,2016,S Kamala,Semi High,200 - 500 employees,Start-up
+5973,KPMG,1987,Peri Vegada,Very High,More than 1000 employees,Mid
+5974,M1xchange,2016,Kamlesh Tiwari,High,500 - 1000 employees,Start-up
+5975,Onehouse,2021,Dharya Aggarwal,Low,10 - 50 employees,Start-up
+5976,Rein Games,2018,Vaibhav Gupta,Low,10 - 50 employees,Start-up
+5977,Supercraft,2022,Soum Paul,Very Low,0 - 10 employees,Start-up
+5978,SuperOps.ai,2020,Vidhya Sam,Very Low,0 - 10 employees,Start-up
+5979,Delivery Solutions,2015,Ayyappan Paramasivam,Medium,50 - 200 employees,Start-up
+5980,dotkonnekt,2020,Sukant Kumar,Low,10 - 50 employees,Start-up
+5981,Voxco Survey Software,1976,Shilpa V,Medium,50 - 200 employees,Mid
+5982,Appstane Technologies,1995,Ridhi Bengani,Very Low,0 - 10 employees,Mid
+5983,MST Solutions,2012,Ramya T S,Semi High,200 - 500 employees,Recent
+5984,Elivaas,2021,Arun Sreenivasan,Low,10 - 50 employees,Start-up
+5985,Leanpitch,2011,C Anjana Nagesh,Low,10 - 50 employees,Recent
+5986,LiveAltlife,2018,Karuna Mr,Low,10 - 50 employees,Start-up
+5987,Omnicell,1992,Sougat Das,Very High,More than 1000 employees,Mid
+5988,uCertify,2004,Muskan Bhushan,Medium,50 - 200 employees,Recent
+5989,Voxelgrids,2017,Bettegowda Pr,Low,10 - 50 employees,Start-up
+5990,Hornbill,2020,Faizal Eledath,Low,10 - 50 employees,Start-up
+5991,Xencov,2017,Alfin Babu,Very Low,0 - 10 employees,Start-up
+5992,Digifast Technologies,2016,Pavithra M Nair,Very Low,0 - 10 employees,Start-up
+5993,Cogno,2017,Diptimayee Sahoo,Medium,50 - 200 employees,Start-up
+5994,Futurism Technologies,2003,Bhagyashree W,High,500 - 1000 employees,Recent
+5995,IRIS Business Services,1994,Surendhar D,High,500 - 1000 employees,Mid
+5996,NorthernTool,1981,Omkar Sonawane,Very High,More than 1000 employees,Mid
+5997,AgilizTech,2014,Mahesh Jaladi,Low,10 - 50 employees,Recent
+5998,Ascendion,2022,Sanskruti Pattanaik,Very High,More than 1000 employees,Start-up
+5999,Recrosoft Technologies,2012,Shubham,Semi High,200 - 500 employees,Recent
+6000,Stixis Technologies,2009,Anjali Nair,Medium,50 - 200 employees,Recent
+6001,Covvalent,2022,Isha Makhijani,Low,10 - 50 employees,Start-up
+6002,mfine,2017,Anjali Nair,High,500 - 1000 employees,Start-up
+6003,coMakeIT,2006,Saran Vura,Semi High,200 - 500 employees,Recent
+6004,Kyshac,2022,Harsh Sharma,Very Low,0 - 10 employees,Start-up
+6005,Neiman Marcus Group,1907,Omkar Sonawane,Very High,More than 1000 employees,Early
+6006,Rigved Technologies,2008,Kamini Singh,Semi High,200 - 500 employees,Recent
+6007,Airtribe,2021,Murthy Ravi,Very Low,0 - 10 employees,Start-up
+6008,Apollo 24|7,2020,Asmita Chatterjee,Semi High,200 - 500 employees,Start-up
+6009,Data Einstein,2021,Azram Fatima,Low,10 - 50 employees,Start-up
+6010,Indihood,2016,Madhavi Vojhala,Low,10 - 50 employees,Start-up
+6011,Nuage BizTech,2014,Manish Nirwal,Medium,50 - 200 employees,Recent
+6012,1Globe,2009,Mahesh Kumar,Low,10 - 50 employees,Recent
+6013,Better Ed,2021,Blessy Fernandes,Very Low,0 - 10 employees,Start-up
+6014,Cornerstone OnDemand,1999,Alekhya Chowdary,Very High,More than 1000 employees,Mid
+6015,Grazitti Interactive,2007,Yashpreet Kaur,Semi High,200 - 500 employees,Recent
+6016,NJ Technologies,1994,Vivek Gohil,Very High,More than 1000 employees,Mid
+6017,Rezo.ai,2017,Aishwarya Agarwal,Low,10 - 50 employees,Start-up
+6018,Smytten,2015,Sidharth Patra,Medium,50 - 200 employees,Start-up
+6019,ConvertCart,2013,Pushpa Anjali A,Medium,50 - 200 employees,Recent
+6020,SaaSPay,2022,Alok Madhav,Low,10 - 50 employees,Start-up
+6021,KredX,2015,Srinivasa Govindraju,Low,10 - 50 employees,Start-up
+6022,People10,2011,Shweta Srivastava,Medium,50 - 200 employees,Recent
+6023,Prasad Corporation,1956,Vinay Garg,Very High,More than 1000 employees,Mid
+6024,Stanley Lifestyles,1996,Kusha Bedre,High,500 - 1000 employees,Mid
+6025,Tring,2019,Ankita Sharma,Very Low,0 - 10 employees,Start-up
+6026,Awaz,2022,Atif Khan,Very Low,0 - 10 employees,Start-up
+6027,Kredily,2017,Boyapati Bhargava,Low,10 - 50 employees,Start-up
+6028,Trinus Corporation,1995,Monica Gudase,Medium,50 - 200 employees,Mid
+6029,18.h Consulting,2016,Ruchika Garg,Very Low,0 - 10 employees,Start-up
+6030,Puno,2019,Priya Yadav,Medium,50 - 200 employees,Start-up
+6031,TestVagrant,2014,Noel David,Medium,50 - 200 employees,Recent
+6032,Easy Eat,2019,Deepak Singh,Very Low,0 - 10 employees,Start-up
+6033,vCommission,2008,Ritika Duhan,Medium,50 - 200 employees,Recent
+6034,Zeotap,2014,Aishwarya Rajvedi,Medium,50 - 200 employees,Recent
+6035,Blinkit,2013,Nivedita Semwal,Very High,More than 1000 employees,Recent
+6036,Datawrkz,2013,Sakthi Sundaresan,Low,10 - 50 employees,Recent
+6037,Headout,2015,Guntaas Lotay,Medium,50 - 200 employees,Start-up
+6038,IndiaPlays,2016,Nikita Apandkar,Low,10 - 50 employees,Start-up
+6039,Paymatrix,2015,Yash Singh,Low,10 - 50 employees,Start-up
+6040,PriceLabs,2014,Sharmila M,Low,10 - 50 employees,Recent
+6041,Netradyne,2015,Thilak Nanaiah,Medium,50 - 200 employees,Start-up
+6042,HomeCapital,2017,Samiksha M,Low,10 - 50 employees,Start-up
+6043,GoGuardian,2014,Muskan Singh,Semi High,200 - 500 employees,Recent
+6044,Paxcom,2014,Shivika Singh,Medium,50 - 200 employees,Recent
+6045,Bert Labs,2017,Rituparna Borah,Low,10 - 50 employees,Start-up
+6046,FIS,2005,Sweta Barman,Very High,More than 1000 employees,Recent
+6047,RamSoft,1994,Sachin Ahire,Semi High,200 - 500 employees,Mid
+6048,Servosys Solutions,2012,Ambika Vishwakarma,Semi High,200 - 500 employees,Recent
+6049,Syren Technologies,2020,Haripriya Reddy,Medium,50 - 200 employees,Start-up
+6050,Murf AI,2020,Himanshu Suman,Low,10 - 50 employees,Start-up
+6051,Adloid,2015,Kartik Negi,Very Low,0 - 10 employees,Start-up
+6052,Infilytics,2020,Silky Malik,Low,10 - 50 employees,Start-up
+6053,Internshala,2011,Raghav Singla,Medium,50 - 200 employees,Recent
+6054,Spinx Digital,2005,Nivetha,Low,10 - 50 employees,Recent
+6055,Cisco,1984,Anirudh Shirur,Very High,More than 1000 employees,Mid
+6056,DreamFolks,2011,Kartik Negi,Medium,50 - 200 employees,Recent
+6057,Reliance Group,1973,Mohammed Affan,Very High,More than 1000 employees,Mid
+6058,AliExpress,2010,Hiteshi Bhatia,Very High,More than 1000 employees,Recent
+6059,Atlan,2019,Yashi Singh,Medium,50 - 200 employees,Start-up
+6060,Capgemini,1967,Gangadhara Reddy,Very High,More than 1000 employees,Mid
+6061,Elevate K-12,2015,Satish Rao,Semi High,200 - 500 employees,Start-up
+6062,GobbleCube,2022,Nitya Dhingra,Very Low,0 - 10 employees,Start-up
+6063,Novigo Solutions,2012,Raman K,Semi High,200 - 500 employees,Recent
+6064,BigTapp,2013,Ayesha Tanvir,Low,10 - 50 employees,Recent
+6065,Blubirch,2014,Reshma Gutha,Semi High,200 - 500 employees,Recent
+6066,RudderStack,2019,Bilal Farooqi,Medium,50 - 200 employees,Start-up
+6067,Kapable,2019,Uma Parvathy,Low,10 - 50 employees,Start-up
+6068,HYPD,2020,Vasu Pal,Low,10 - 50 employees,Start-up
+6069,Kushal's Fashion Jewellery,2006,Sowmya Murthy,Semi High,200 - 500 employees,Recent
+6070,Magnasoft,2000,Abhishek Dhuria,High,500 - 1000 employees,Recent
+6071,InfraBeat Technologies,2013,Jyotsneel Falak,Very High,More than 1000 employees,Recent
+6072,Reltio,2011,Simanchal Tripathy,Semi High,200 - 500 employees,Recent
+6073,Yash Technologies,1996,Aditya Pratap Singh,Very High,More than 1000 employees,Mid
+6074,Catosoft technologies,2018,Ruchika Nangia,Very Low,0 - 10 employees,Start-up
+6075,CouponDunia,2010,Pooja Hadawale,Medium,50 - 200 employees,Recent
+6076,Fitway,2016,Sonam Sidhiya,Low,10 - 50 employees,Start-up
+6077,Borosil,1962,Priya Rani,Very High,More than 1000 employees,Mid
+6078,Density Exchange,2022,Aakash Neeraj Mittal,Very Low,0 - 10 employees,Start-up
+6079,Joyride Games,2020,Kavita Gaba,Medium,50 - 200 employees,Start-up
+6080,NeoSOFT Technologies,1996,Samiksha M,Very High,More than 1000 employees,Mid
+6081,Rubrik,2015,Hari Prasad Jeta,High,500 - 1000 employees,Start-up
+6082,RenewBuy,2015,Shweta Singh,Semi High,200 - 500 employees,Start-up
+6083,TalentServe,2021,Madhavi Dadigala,Very Low,0 - 10 employees,Start-up
+6084,Assiduus Global,2018,Consult Bae,Medium,50 - 200 employees,Start-up
+6085,AVL,1948,Ardhendu Bikash Acharjee,Very High,More than 1000 employees,Early
+6086,IIFL,1995,Nishant Baibhav,Very High,More than 1000 employees,Mid
+6087,NirogStreet,2016,Consult Bae,Medium,50 - 200 employees,Start-up
+6088,Sigma AVIT Infra Services,2008,Sajitha Alex,Semi High,200 - 500 employees,Recent
+6089,Zoho Corporation,1996,Sweta Barman,Very High,More than 1000 employees,Mid
+6090,ZONO,2019,Srishti Rai,Low,10 - 50 employees,Start-up
+6091,Code Connex,2018,Shreyosi Dutta,Low,10 - 50 employees,Start-up
+6092,Hexaware Technologies,1990,Saravanan Jas,Very High,More than 1000 employees,Mid
+6093,Okoders Technologies,2019,Sai Sahitya V,Low,10 - 50 employees,Start-up
+6094,Teleport,2015,Rayal Rajan,Medium,50 - 200 employees,Start-up
+6095,vServe Group,2008,Ankita Verma,Low,10 - 50 employees,Recent
+6096,Deqode,2012,Meher Kaur,Semi High,200 - 500 employees,Recent
+6097,Gyaan AI,2021,Yash Thakare,Low,10 - 50 employees,Start-up
+6098,ModMed,2010,Swati,Very High,More than 1000 employees,Recent
+6099,Rigel Networks,2004,Manan Sharma,Semi High,200 - 500 employees,Recent
+6100,Veera Health,2020,Yash Singh,Very Low,0 - 10 employees,Start-up
+6101,Brine Finance,2022,Hr Brine,Low,10 - 50 employees,Start-up
+6102,Cholamandalam MS General Insurance,2001,Aakriti Singh,High,500 - 1000 employees,Recent
+6103,DXM,2019,Kavya Shegde,Very Low,0 - 10 employees,Start-up
+6104,Eastvantage,2010,Chaithra Shetty,Very High,More than 1000 employees,Recent
+6105,Gortnm Innovations,2017,Nishu Rajput,Low,10 - 50 employees,Start-up
+6106,Jumbotail,2015,Priyanka Sharma,Semi High,200 - 500 employees,Start-up
+6107,Opt IT Technologies,2009,Naga Sravanthi,Medium,50 - 200 employees,Recent
+6108,Primary Healthtech,2018,Ankit Chowdhury,Low,10 - 50 employees,Start-up
+6109,Protium,2019,Srilakshmi Jagadesh,Very High,More than 1000 employees,Start-up
+6110,Nash Industries,1971,Reeba Arshad,Very High,More than 1000 employees,Mid
+6111,Orange Health,2020,Sai Sandeep Puriya,Medium,50 - 200 employees,Start-up
+6112,Rizzle,2017,Niharika Pravin Naik,Medium,50 - 200 employees,Start-up
+6113,ETMoney,2015,Anoushka Goswami,Medium,50 - 200 employees,Start-up
+6114,Giriraj Digital,2018,Jinal Mehta,Medium,50 - 200 employees,Start-up
+6115,Carnera Technologies,2018,Shubhangi Saxena,Medium,50 - 200 employees,Start-up
+6116,InterAds Exhibitions,1964,Sakshi Dhiman,Low,10 - 50 employees,Mid
+6117,BluElement Technologies,2018,Vinod P John,Very Low,0 - 10 employees,Start-up
+6118,Divistha Networks,2019,Sandhya B,Low,10 - 50 employees,Start-up
+6119,EZ Works,2017,Rimmy Jain,Low,10 - 50 employees,Start-up
+6120,Galaxy Tech Solutions,2019,Veera Triveni,High,500 - 1000 employees,Start-up
+6121,Hubilo,2015,Abhisheka Chauvan Nasalapur,Medium,50 - 200 employees,Start-up
+6122,Colossus Ventures India,2016,Shagun Agarwal Lion Sheher,Medium,50 - 200 employees,Start-up
+6123,Attero Recycling,2008,Garvita Kapoor,Semi High,200 - 500 employees,Recent
+6124,Oxeen IT Pro,2019,Shiwani Gupta,Low,10 - 50 employees,Start-up
+6125,Pluralsight,2004,Amit Tripathi,Very High,More than 1000 employees,Recent
+6126,The Ageless Clinic,2011,Rayal Rajan,High,500 - 1000 employees,Recent
+6127,Yulu,2017,Chaitra Shetteppanavar,Medium,50 - 200 employees,Start-up
+6128,Linarc,2018,Anandasubramanian Tp,Low,10 - 50 employees,Start-up
+6129,Nagarro,1996,Nitika Kalra,Very High,More than 1000 employees,Mid
+6130,SolarSquare Energy,2015,Vikas Gaur,Medium,50 - 200 employees,Start-up
+6131,Livofy,2018,Jayshree Sharma,Low,10 - 50 employees,Start-up
+6132,Scaling Socials,2021,Scaling Socials,Very Low,0 - 10 employees,Start-up
+6133,Zdaly,2016,Sridevi Viswanathan,Low,10 - 50 employees,Start-up
+6134,HYVE Sports,2016,Hyve Sports,Low,10 - 50 employees,Start-up
+6135,iXiGO,2007,Priyasha Chaubey,Medium,50 - 200 employees,Recent
+6136,Playground Labs,2021,Ilire Vucetaj,Very Low,0 - 10 employees,Start-up
+6137,SugarBox Networks,2016,Aparna Chaphekar,Semi High,200 - 500 employees,Start-up
+6138,TerracottaPlanet,2022,Gopiga Jothiraj,Very Low,0 - 10 employees,Start-up
+6139,Legitt,2022,Pradeep Yadav,Very Low,0 - 10 employees,Start-up
+6140,Vectra Automation,2011,Rani Kavitha Joshua,Medium,50 - 200 employees,Recent
+6141,Digikull,2020,Deepak Kumar,Low,10 - 50 employees,Start-up
+6142,Sharpsell AI,2018,Raman Mehrotra,Medium,50 - 200 employees,Start-up
+6143,Brenolabs,2020,Udarsh Diwan,Low,10 - 50 employees,Start-up
+6144,Eightfold AI,2016,Priyanka Savekar,Semi High,200 - 500 employees,Start-up
+6145,Evertiz Solutions,2020,Shavin Kamble,Very Low,0 - 10 employees,Start-up
+6146,OneStack,2019,Pratibha Srivastav,Very Low,0 - 10 employees,Start-up
+6147,Rario,2021,Yukti Khanna,Low,10 - 50 employees,Start-up
+6148,Vivo,2009,Aditya Kumar,Very High,More than 1000 employees,Recent
+6149,Apollo Pharmacy,1987,Suneel Chirra,Very High,More than 1000 employees,Mid
+6150,BillFree Labs,2017,Megha Roy,Low,10 - 50 employees,Start-up
+6151,Charlee.ai,2016,Technocodz Group Hr Manager,Low,10 - 50 employees,Start-up
+6152,Hettich India,2001,Rencia Dsouza,Semi High,200 - 500 employees,Recent
+6153,Sutherland,1986,Dosa Sirisha Rani,Very High,More than 1000 employees,Mid
+6154,Velocis Systems,2007,Monika Gupta,Low,10 - 50 employees,Recent
+6155,Early Steps Academy,2020,Garnet Chaves,Very Low,0 - 10 employees,Start-up
+6156,Kapil IT Solutions,2015,Srikanth Thallam,Medium,50 - 200 employees,Start-up
+6157,SurveySparrow,2017,Manzar Imam,Medium,50 - 200 employees,Start-up
+6158,Vidhema Solutions,2016,Ayushi Garg,Very Low,0 - 10 employees,Start-up
+6159,Canarys,1988,Nishant M,Semi High,200 - 500 employees,Mid
+6160,RootQuotient,2018,Kirubaharan Lakshmipathy,Medium,50 - 200 employees,Start-up
+6161,Shine Web Services,2015,Vinay Garg,Low,10 - 50 employees,Start-up
+6162,Wissen Technology,1997,Talent Acquisition Team,Semi High,200 - 500 employees,Mid
+6163,Clarisights,2017,Larissa Crasto,Low,10 - 50 employees,Start-up
+6164,Extramarks,2007,Boobesh M,Very High,More than 1000 employees,Recent
+6165,GainInsights Solutions,2012,Carol Dsouza,Medium,50 - 200 employees,Recent
+6166,Infrovate Consulting and Solutions,2013,Annu Singh,Medium,50 - 200 employees,Recent
+6167,Kutumb,2020,Manjari Rastogi,Medium,50 - 200 employees,Start-up
+6168,Trivialworks Solutions,2011,Khushbu Arya,Medium,50 - 200 employees,Recent
+6169,Majid Al Futtaim Hypermarkets,1992,Nishu Singh,Very High,More than 1000 employees,Mid
+6170,Rane Group,1929,Maan Chahal,Very High,More than 1000 employees,Early
+6171,Solar Ladder,2020,Gouri Gore,Very Low,0 - 10 employees,Start-up
+6172,Homeshala,2019,Techcushy Software Solutions,Medium,50 - 200 employees,Start-up
+6173,Mishipay,2015,Ajith Inguva,Low,10 - 50 employees,Start-up
+6174,Zoo Media,2020,Vandana Hirey,Semi High,200 - 500 employees,Start-up
+6175,Bahwan CyberTek,1999,Thiyagarajan Manothiyagu,Very High,More than 1000 employees,Mid
+6176,Alora IT Solutions,2018,Bhawna Burman,Low,10 - 50 employees,Start-up
+6177,Blitz,2019,Kavita Gaba,Low,10 - 50 employees,Start-up
+6178,Engagedly Inc,2015,Aathira H Nair,Medium,50 - 200 employees,Start-up
+6179,Get My Parking,2015,Anamika Viswanath,Low,10 - 50 employees,Start-up
+6180,Groyyo,2021,Prashant Trivedi,Low,10 - 50 employees,Start-up
+6181,Prodapt Solutions,1999,Aishwarya R,Very High,More than 1000 employees,Mid
+6182,White Elephant Tech,2014,HR Team Wetech,Low,10 - 50 employees,Recent
+6183,Buyerforesight,2016,Neha Khanna Sheher,Medium,50 - 200 employees,Start-up
+6184,Cybrilla,2009,Anjali Nair,Low,10 - 50 employees,Recent
+6185,FabHotels,2014,Yash Singh,Medium,50 - 200 employees,Recent
+6186,iTech Workshop,1998,George Bush,Low,10 - 50 employees,Mid
+6187,Newscape Consulting,2017,Ruchika Nangia,Medium,50 - 200 employees,Start-up
+6188,Nissan Digital,2018,Neha Dalvi,Semi High,200 - 500 employees,Start-up
+6189,Thence,2012,Nilesh Godle,Medium,50 - 200 employees,Recent
+6190,TransUnion,1968,Surbhi Daryani,Very High,More than 1000 employees,Mid
+6191,Youshd,2022,Rayal Rajan,Very Low,0 - 10 employees,Start-up
+6192,Atoa,2022,Pardeep Singh,Very Low,0 - 10 employees,Start-up
+6193,Benthon Labs,2019,Shubham Sinha,Medium,50 - 200 employees,Start-up
+6194,Dost Education,2017,Prateek Agarwal,Very Low,0 - 10 employees,Start-up
+6195,Proclink,2017,Ramya T S,Medium,50 - 200 employees,Start-up
+6196,Tata Consultancy Services,1968,Priyanka Paul,Very High,More than 1000 employees,Mid
+6197,Wonderment Apps,2015,Shashank Gupta,Medium,50 - 200 employees,Start-up
+6198,Draup,2018,Twinkle Singh,Medium,50 - 200 employees,Start-up
+6199,Thryve Digital Health LLP,2016,Prathima H S,Very High,More than 1000 employees,Start-up
+6200,Twin,2018,Aience Boruah,Medium,50 - 200 employees,Start-up
+6201,Applicate IT Solutions,2014,Neha Kothari,Medium,50 - 200 employees,Recent
+6202,Elocity,2018,Osama Khan,Low,10 - 50 employees,Start-up
+6203,Trace One,2001,Doss M,Medium,50 - 200 employees,Recent
+6204,Arcana,2019,Vandana Hirey,Low,10 - 50 employees,Start-up
+6205,ASZ Technologies,2013,Bhandavya Dr,Low,10 - 50 employees,Recent
+6206,Aurasoft,2020,Palak Sharma,Very Low,0 - 10 employees,Start-up
+6207,Kogito IT Services,2006,Moumita Chakraborty,Medium,50 - 200 employees,Recent
+6208,Material Depot,2021,Mridula Raghotham,Very Low,0 - 10 employees,Start-up
+6209,Townhall,2020,Yogesh Jagaraj,Low,10 - 50 employees,Start-up
+6210,Translate By Humans,2013,Khushali Vyas,Low,10 - 50 employees,Recent
+6211,Convin,2020,Rayal Rajan,Low,10 - 50 employees,Start-up
+6212,Open Financial Technologies,2017,Libin O K,Semi High,200 - 500 employees,Start-up
+6213,Space Technology & Education,2006,Yoganshi Mittal,Medium,50 - 200 employees,Recent
+6214,Logical Softtech,2019,Keerti Singh,Low,10 - 50 employees,Start-up
+6215,Aditya Birla Fashion and Retail,1997,Rashmi Jeslani,Very High,More than 1000 employees,Mid
+6216,OneCare,2021,Siddhartha S,Low,10 - 50 employees,Start-up
+6217,Instabase,2015,Pooja Reddy,Semi High,200 - 500 employees,Start-up
+6218,One World News,2011,One World News,Very Low,0 - 10 employees,Recent
+6219,StockX,2016,Ajay Pathy,High,500 - 1000 employees,Start-up
+6220,Deebash Events,2016,Naveen Taalanki,Low,10 - 50 employees,Start-up
+6221,ISchoolConnect Technologies,2017,Rutuja Sarwade,Medium,50 - 200 employees,Start-up
+6222,Programmers.io,2013,Surbhi Shukla,Semi High,200 - 500 employees,Recent
+6223,RupiCard,2022,Saranya R,Very Low,0 - 10 employees,Start-up
+6224,TensorGo Technologies,2019,Kanika Poddar,Low,10 - 50 employees,Start-up
+6225,Celebal Technologies,2015,Pradeep Yadav,Very High,More than 1000 employees,Start-up
+6226,IntellyLabs Technologies,2013,Zahra Beg,Semi High,200 - 500 employees,Recent
+6227,NAV Fund Administration Group,1991,Akash Gulati,Very High,More than 1000 employees,Mid
+6228,Sumedha Softech,2011,Hr Sumedha Softech,Low,10 - 50 employees,Recent
+6229,Phyllo,2021,Saroj Kumar Sahoo,Medium,50 - 200 employees,Start-up
+6230,Squash apps,2015,Sarjun Ravi,Low,10 - 50 employees,Start-up
+6231,SRL Diagnostics,1995,Himanshu Singh,Very High,More than 1000 employees,Mid
+6232,Dure Technologies,2008,Garvita Kapoor,Medium,50 - 200 employees,Recent
+6233,insightsoftware,2018,Revathi Vankineni,Very High,More than 1000 employees,Start-up
+6234,Kivi Capital,2011,Shefali K,Very Low,0 - 10 employees,Recent
+6235,Flint,2021,Mrigank Bhargava,Low,10 - 50 employees,Start-up
+6236,Neokred,2019,Akshitha N,Low,10 - 50 employees,Start-up
+6237,Gripple,1998,Raman Mehrotra,High,500 - 1000 employees,Mid
+6238,HSBC,1865,Rishabh Wadhwa,Very High,More than 1000 employees,Early
+6239,Logical solutions,2000,Sravani Paramkusham,Low,10 - 50 employees,Recent
+6240,Techior Solutions,2007,Techior Solutions,Low,10 - 50 employees,Recent
+6241,LetsTransport,2015,Abhijith Bs,Very High,More than 1000 employees,Start-up
+6242,Mercari,2013,Heena Makhijani,Semi High,200 - 500 employees,Recent
+6243,CLIRNET,2015,Bidisha Majumder,Medium,50 - 200 employees,Start-up
+6244,Powerweave,2001,Anjali Kurmi,Very High,More than 1000 employees,Recent
+6245,Sanas AI,2020,Twinkle Singh,Low,10 - 50 employees,Start-up
+6246,Shop Trade,2016,Sushanth Suvarna,Medium,50 - 200 employees,Start-up
+6247,Fasal,2018,Rajni Thakur,Low,10 - 50 employees,Start-up
+6248,5x,2021,Samridhi Sindhu,Low,10 - 50 employees,Start-up
+6249,DynamicNext,2012,Ageis Recruitment,Low,10 - 50 employees,Recent
+6250,GlobalFair,2020,Soumya Kotha,Medium,50 - 200 employees,Start-up
+6251,Turvo,2015,Sairam N B V,Medium,50 - 200 employees,Start-up
+6252,HBK,2019,Loshy Chandran,Very High,More than 1000 employees,Start-up
+6253,QuEST Global,1991,Sunil Kandukuri,Very High,More than 1000 employees,Mid
+6254,Wurth Group,1945,Pooja Shiva,Very High,More than 1000 employees,Early
+6255,Etelligens Technologies,2015,Riyanshi Goyal,Medium,50 - 200 employees,Start-up
+6256,Groww,2017,Deeksha Singh,High,500 - 1000 employees,Start-up
+6257,InkPaper,2020,Careers Inkpaper,Low,10 - 50 employees,Start-up
+6258,Jugyah,2023,Shruti Aggarwal,Very Low,0 - 10 employees,Start-up
+6259,Nat Habit,2018,Shikha Chauhan,Low,10 - 50 employees,Start-up
+6260,Teradata,1980,Pankaj,Very High,More than 1000 employees,Mid
+6261,Uniqubic,2018,Palak Upadhyay,Low,10 - 50 employees,Start-up
+6262,Vega,2000,Smita Singh,High,500 - 1000 employees,Recent
+6263,Arethos,2005,Janpreet Kaur,Medium,50 - 200 employees,Recent
+6264,Heady,2016,Dheeraj Bhardwaj,Low,10 - 50 employees,Start-up
+6265,IDfy,2011,Shilpa Pallikadavath,Semi High,200 - 500 employees,Recent
+6266,Infinx,2012,Anusha J,Very High,More than 1000 employees,Recent
+6267,Global Institute of Cyber Security & Ethical Hacking,2019,Aravind Patel,Low,10 - 50 employees,Start-up
+6268,Market Expertise,2011,Amrita Kuppanatti,Medium,50 - 200 employees,Recent
+6269,Sterling Holiday Resorts,1986,Dimple Wadhwa,Very High,More than 1000 employees,Mid
+6270,Swaran Soft,1998,Pooja Chauhan,Medium,50 - 200 employees,Mid
+6271,CodeChavo,2020,Sagar Bhatt,Very Low,0 - 10 employees,Start-up
+6272,Parcel,2020,Nupur Mehra,Very Low,0 - 10 employees,Start-up
+6273,vidyo.ai,2021,Sharmila M,Very Low,0 - 10 employees,Start-up
+6274,Myntra,2007,Shilpi Gupta,Very High,More than 1000 employees,Recent
+6275,Rartogo,2022,Yash Singh,Very Low,0 - 10 employees,Start-up
+6276,Ebullient Securities,2015,Pallavi Yadav,Medium,50 - 200 employees,Start-up
+6277,Prodt Consulting Services,2018,Jyotsana Iyer,Very Low,0 - 10 employees,Start-up
+6278,Running On Coffee,2020,Ashish Kumar Bansal,Low,10 - 50 employees,Start-up
+6279,eBizneeds,2002,Nilansh Chaudhary,Medium,50 - 200 employees,Recent
+6280,SciSpace,2016,David Rajasekar,Low,10 - 50 employees,Start-up
+6281,SecurEyes,2006,Yashi Singh,Medium,50 - 200 employees,Recent
+6282,Aakash Educational Services,1988,Bhumika Bisht,Very High,More than 1000 employees,Mid
+6283,Housing,2012,Alisha Saha,Very High,More than 1000 employees,Recent
+6284,Kingfish Group,2004,Devyani Sharma,Medium,50 - 200 employees,Recent
+6285,MSys Technologies,2007,Prabakaran Perumal,High,500 - 1000 employees,Recent
+6286,Nouveau Labs,2017,Nouveau Labs,Low,10 - 50 employees,Start-up
+6287,WebSpero Solutions,2007,Amandeepp Kaur Sandhhu,Medium,50 - 200 employees,Recent
+6288,DailyHunt,2007,Cibi M Thomas,High,500 - 1000 employees,Recent
+6289,Financepeer,2017,Mavrel Dsouza,Low,10 - 50 employees,Start-up
+6290,Flexagn,2021,Shriniwas Mutnure,Very Low,0 - 10 employees,Start-up
+6291,Aakash Edutech,2008,Sandhya B,High,500 - 1000 employees,Recent
+6292,Magellan X,2019,Doss M,Medium,50 - 200 employees,Start-up
+6293,Xeno,2018,Shruti Sinha,Low,10 - 50 employees,Start-up
+6294,Amoga,2021,Indresh Vikram Singh,Medium,50 - 200 employees,Start-up
+6295,Capital Foods,1996,Shalini,Very High,More than 1000 employees,Mid
+6296,CASHe,2016,Preksha Trivedi,Semi High,200 - 500 employees,Start-up
+6297,uFaber Edutech,2013,Yashika Daryanani,High,500 - 1000 employees,Recent
+6298,91Mobiles,2010,Kanika Agarwal,Medium,50 - 200 employees,Recent
+6299,AllianceBernstein,1967,Payal Arora,Very High,More than 1000 employees,Mid
+6300,Alyke,2021,S Vikram,Low,10 - 50 employees,Start-up
+6301,Apollo Finvest,2014,Ankit Uniyal,Low,10 - 50 employees,Recent
+6302,CapitalOne,2019,Shalini,Low,10 - 50 employees,Start-up
+6303,Cognizant,1994,Prasoon Murthy N,Very High,More than 1000 employees,Mid
+6304,Springworks,2014,Rahul Tripathi,Medium,50 - 200 employees,Recent
+6305,Culture Holidays,1999,Jobs Cultureholidays,Medium,50 - 200 employees,Mid
+6306,Lemnisk,2009,Pinnacle Consultz,Medium,50 - 200 employees,Recent
+6307,Simple Viral Games,2023,Ankita Sharma,Very Low,0 - 10 employees,Start-up
+6308,Illumine Foundation,2019,Subramaniam Sridhar,Low,10 - 50 employees,Start-up
+6309,Insurancedekho,2016,Ritu Mishra,Very High,More than 1000 employees,Start-up
+6310,Ola Electric Mobility,2017,Alisha Athaide,High,500 - 1000 employees,Start-up
+6311,Intoglo,2022,Leena Sharma,Very Low,0 - 10 employees,Start-up
+6312,Neuronimbus Software Services,2004,Shalini Singh,Medium,50 - 200 employees,Recent
+6313,Thiran Technologies,2017,Swetha Loganathan,Low,10 - 50 employees,Start-up
+6314,Borneo,2009,Shivkumar Gurram,Low,10 - 50 employees,Recent
+6315,Kreetey Software,2017,Augustine Dsouza,Medium,50 - 200 employees,Start-up
+6316,WeKan Enterprise Solutions,2016,Saswati Ray,Medium,50 - 200 employees,Start-up
+6317,NextBillion AI,2019,C Anjana Nagesh,Low,10 - 50 employees,Start-up
+6318,One.com,2002,Pritam Debnath,Semi High,200 - 500 employees,Recent
+6319,MIPL,2010,Barkha Gupta,Low,10 - 50 employees,Recent
+6320,Propellum,1998,Mayanka Shrivastava,Medium,50 - 200 employees,Mid
+6321,StockyDodo,2021,Tusharika Sharma,Low,10 - 50 employees,Start-up
+6322,Annular Technologies,2019,Kanishka K,Low,10 - 50 employees,Start-up
+6323,Invaria Tech,2013,Nikitha S,Medium,50 - 200 employees,Recent
+6324,MetaDesign Solutions,2007,Kajal Sisodia,Semi High,200 - 500 employees,Recent
+6325,Infibeam,2007,Deepti L,High,500 - 1000 employees,Recent
+6326,Testbook.com,2014,Saima Shaikh,Semi High,200 - 500 employees,Recent
+6327,Yellophant Digital,2020,Samiksha M,Very Low,0 - 10 employees,Start-up
+6328,Exxat,2011,Shivani Gaur,Medium,50 - 200 employees,Recent
+6329,OneCode.in,2019,Rinsy Backer,Medium,50 - 200 employees,Start-up
+6330,Noesis.tech,2009,Vandana Hirey,Low,10 - 50 employees,Recent
+6331,Supergaming,2009,Akancha Sinha,Low,10 - 50 employees,Recent
+6332,Udaan.com,2016,Asha Jayaram,High,500 - 1000 employees,Start-up
+6333,Volans Infomatics,2020,Anoushka Goswami,Medium,50 - 200 employees,Start-up
+6334,Envirya,2019,Ruchika Nangia,Low,10 - 50 employees,Start-up
+6335,Madhu Infotech,1999,Nikhil Philips,Medium,50 - 200 employees,Mid
+6336,Zolnoi,2021,Kavya Bethi,Very Low,0 - 10 employees,Start-up
+6337,Finarkein Analytics,2019,Atul Kumar,Very Low,0 - 10 employees,Start-up
+6338,SAS,1976,Varsha Gaitonde,Very High,More than 1000 employees,Mid
+6339,Zorang,2014,Srishti Aswal,Low,10 - 50 employees,Recent
+6340,Oyela,2021,Atul Kumar,Very Low,0 - 10 employees,Start-up
+6341,Soti India,1995,Divya Joshi,Very High,More than 1000 employees,Mid
+6342,Siam Computing,2012,Priya Chinnavar,Low,10 - 50 employees,Recent
+6343,Sony,1946,Madhulika Samala,Very High,More than 1000 employees,Early
+6344,Edubridge,2009,Shilpi Lalotra,Low,10 - 50 employees,Recent
+6345,FieldAssist,2014,Consult Bae,Medium,50 - 200 employees,Recent
+6346,Fresh Prints,2009,Sindhuja Pantula,Low,10 - 50 employees,Recent
+6347,Pluto,2021,Nayeem Zen,Very Low,0 - 10 employees,Start-up
+6348,Techdome Solutions,2020,Shagufa Zareen,Low,10 - 50 employees,Start-up
+6349,TRUSTlab Diagnostics,2020,Dr Muralidhar Panchagnula Hc,Medium,50 - 200 employees,Start-up
+6350,dataFloat,2000,Pradeep Shetty,Semi High,200 - 500 employees,Recent
+6351,Jodhpur Digital,2020,Jodhpur Digital,Low,10 - 50 employees,Start-up
+6352,Tarana Wireless,2009,Nandini Pm,Semi High,200 - 500 employees,Recent
+6353,Webguru infosystems,2005,Debasree Roy Choudhury,Medium,50 - 200 employees,Recent
+6354,Mio Design,2011,Sneha Boddeti,Low,10 - 50 employees,Recent
+6355,P.Labs Ventures,2018,Indira B,Low,10 - 50 employees,Start-up
+6356,Startek,1987,Mary Joseph,Very High,More than 1000 employees,Mid
+6357,CybernauticsTech,2019,Ruchika Jindal,Low,10 - 50 employees,Start-up
+6358,Navneet Education,1959,Shrashti Nayak,Very High,More than 1000 employees,Mid
+6359,NIRA,2017,Asha Dhanunjaya,Low,10 - 50 employees,Start-up
+6360,Rainbow Aviation,2004,Zubair Khan,Low,10 - 50 employees,Recent
+6361,Uplers,2012,Sanchari Dutta,High,500 - 1000 employees,Recent
+6362,Nutrabay,2016,Nutrabay Careers,Low,10 - 50 employees,Start-up
+6363,Tookitaki,2014,Anjali Nair,Medium,50 - 200 employees,Recent
+6364,Unacademy,2015,Priyanka Paul,Very High,More than 1000 employees,Start-up
+6365,Yokogawa,1915,Karthickkumar S,Very High,More than 1000 employees,Early
+6366,InnovationM,2010,Prerna Jain,Medium,50 - 200 employees,Recent
+6367,Amazon Web Services,2006,Sampada Masur Palkar,Very High,More than 1000 employees,Recent
+6368,Arjun Ice Creams,1997,Sheetal Surana,Very Low,0 - 10 employees,Mid
+6369,SenseHQ,2016,Sana Kausar,Low,10 - 50 employees,Start-up
+6370,Simpl,2015,Ayesha Siddiqua,High,500 - 1000 employees,Start-up
+6371,Speed Step Software Solutions,1995,Padmanaban P,Low,10 - 50 employees,Mid
+6372,Gravity AI,2020,Pooja Shiva,Very Low,0 - 10 employees,Start-up
+6373,ProdEx Technologies,1997,Laxmi Anand,Medium,50 - 200 employees,Mid
+6374,VT Netzwelt,2008,Raj P,Medium,50 - 200 employees,Recent
+6375,Ample Technologies,1997,Jiddu Manohar,Semi High,200 - 500 employees,Mid
+6376,Essenvia,2016,Basant Sahoo,Very Low,0 - 10 employees,Start-up
+6377,Prerna Trimurthy Infotech,2009,Prerna Trimurty Infotech Pvt HR Admin,Medium,50 - 200 employees,Recent
+6378,TransCloud Labs,2020,Ashly Benny,Low,10 - 50 employees,Start-up
+6379,Awign,2016,Praveen Sah,Semi High,200 - 500 employees,Start-up
+6380,BusinessOnBot,2020,Kirushanth Kumar,Low,10 - 50 employees,Start-up
+6381,Cuemath,2011,Charul Sharma,Medium,50 - 200 employees,Recent
+6382,EPPS Infotech,2011,Lalith S,Medium,50 - 200 employees,Recent
+6383,Kreeti Technologies,2006,Rencia Dsouza,Low,10 - 50 employees,Recent
+6384,Adsparkx Media,2014,Hr Adsparkx,Semi High,200 - 500 employees,Recent
+6385,Salesforce,1999,Manvi Khanna Sheher,Very High,More than 1000 employees,Mid
+6386,Haptik,2014,Salonee Bhatia,Semi High,200 - 500 employees,Recent
+6387,RISE Infraventures,2020,Pinki Verma,Low,10 - 50 employees,Start-up
+6388,Roadzen,2015,Arpita Rai,Semi High,200 - 500 employees,Start-up
+6389,Toppr,2013,Sweta Barman,Semi High,200 - 500 employees,Recent
+6390,Bizupon India,2006,Aasha Kumari,Medium,50 - 200 employees,Recent
+6391,Global Knowledge Technologies,2015,Sanchari Dutta,Medium,50 - 200 employees,Start-up
+6392,Koantek,2020,Bhoomika Varshney,Low,10 - 50 employees,Start-up
+6393,ThrivePass,2014,Farheen Sultana,Medium,50 - 200 employees,Recent
+6394,Apps Associates,2002,Deepthi A,High,500 - 1000 employees,Recent
+6395,Ornate TechnoServices,2009,Aditya Yadav,Low,10 - 50 employees,Recent
+6396,Plena,2018,Mohit Sharma,Low,10 - 50 employees,Start-up
+6397,Shaye India,2016,Ashok Kumar,Medium,50 - 200 employees,Start-up
+6398,The Sporting News,1886,Priya Arora,Medium,50 - 200 employees,Early
+6399,XFIN,2022,Nishith Patnaik,Low,10 - 50 employees,Start-up
+6400,Shield,2008,Dikshita Verma,Medium,50 - 200 employees,Recent
+6401,PM Square Soft Services,2011,Gayathri Arun,Very Low,0 - 10 employees,Recent
+6402,Teamscart,2021,Nanda Kishore,Very Low,0 - 10 employees,Start-up
+6403,Opendoor,2014,Chaitra Shetteppanavar,Very High,More than 1000 employees,Recent
+6404,SpanIdea Systems,2011,Sindhu M,High,500 - 1000 employees,Recent
+6405,hyperDart,2017,Priyanka Paul,Low,10 - 50 employees,Start-up
+6406,ImagoAI,2017,Yogesh Dhankhar,Low,10 - 50 employees,Start-up
+6407,Royal Bank of Scotland Business,1900,Nancy Bhatia,Very High,More than 1000 employees,Early
+6408,Anakin,2019,Ankita Sharma,Very Low,0 - 10 employees,Start-up
+6409,Noise,2014,Vikas Gaur,Semi High,200 - 500 employees,Recent
+6410,Commonwealth Bank,1911,Rishabh Wadhwa,Very High,More than 1000 employees,Early
+6411,Light & Wonder,2004,Ankit Sinha,Very High,More than 1000 employees,Recent
+6412,Streebo,2008,Streebo Hr,Semi High,200 - 500 employees,Recent
+6413,Hashed,2017,Raj Mohan,Low,10 - 50 employees,Start-up
+6414,Debut Infotech,2011,Manjot Kaur,Low,10 - 50 employees,Recent
+6415,Ira Technologies,2010,Manisha Juneja,Low,10 - 50 employees,Recent
+6416,CureBay,2020,Blessy Fernandes,Low,10 - 50 employees,Start-up
+6417,Larsen & Toubro Infotech,1997,Paramjeet Kaur,Very High,More than 1000 employees,Mid
+6418,Mirafra Technologies,2004,Tejaswi Reddy,High,500 - 1000 employees,Recent
+6419,Skillovilla,2020,Sneha T M,Low,10 - 50 employees,Start-up
+6420,INNsight,1998,Faruk Kothariya,Medium,50 - 200 employees,Mid
+6421,KoiReader,2019,Neha Rikibe,Low,10 - 50 employees,Start-up
+6422,Qualcomm,1985,Tejaswi Reddy,Very High,More than 1000 employees,Mid
+6423,Vendiman,2013,Ronald Pereira,Medium,50 - 200 employees,Recent
+6424,Aarohin Technologies,2022,Qikrecruit,Very Low,0 - 10 employees,Start-up
+6425,Entropik Technologies,2016,Lekha Govindaraj,Medium,50 - 200 employees,Start-up
+6426,Heart It Out,2018,Nithya J Rao,Medium,50 - 200 employees,Start-up
+6427,Amantya Technologies,2018,Ardhendu Bikash Acharjee,Semi High,200 - 500 employees,Start-up
+6428,Awww,2015,Ardhendu Bikash Acharjee,Low,10 - 50 employees,Start-up
+6429,Nibav Home Lifts,2019,Induja Hj,Very High,More than 1000 employees,Start-up
+6430,Raphe mPhibr,2017,Ardhendu Bikash Acharjee,Medium,50 - 200 employees,Start-up
+6431,WeSquare,2014,Dantuluri Venkata Divya,Low,10 - 50 employees,Recent
+6432,BlueSapling,2014,Hr,Low,10 - 50 employees,Recent
