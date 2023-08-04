@@ -1,21 +1,21 @@
 # Job_Analytics_Project
 
-**--Introduction--**
+**----Introduction----**
 
 In today's job market, job seekers and employers face numerous challenges when it comes to finding the right fit. The rise of online job search platforms has made it easier to connect job seekers and employers, but with so many job postings and resumes available online, it can be overwhelming to sift through the data and find the best match. This is where job analytics comes in, providing tools to help both job seekers and employers make more informed decisions. In this project, we have used job analytics to analyze job postings from the Instahyre website, with the aim of gaining insights into the job market for data science and analytics roles in India.
 
-**--Problem Statement--**
+**----Problem Statement----**
 
 With the growing number of job opportunities available on the internet, it can be challenging for job seekers to find relevant job postings that match their skills and interests. As a result, it becomes difficult for companies to find suitable candidates for their job openings.
 
-**--Objective--**
+**----Objective----**
 
 Analyze the job market according to Instahyre Job Portal and provide insights to both job seekers and employers.
 Link - https://www.instahyre.com/search-jobs/
 
 ![Screenshot 2023-08-04 214856](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/03a5acbb-10b8-44b3-b31f-0c9ca9cbfce1)
 
-**--Data Description--**
+**----Data Description----**
 **1) Excel_csv Files -** This folder contains 4 files Cleaned Dataset (Dataset which is cleaned after Webscrapping) followed by the Excel 
                       Dashboard and the Company and job data extracted by Webscrapping.
 **2) Images -** This folder contains the Database Schema, Dashboard image and the images of insights which were given after visualisation.
@@ -25,7 +25,7 @@ Link - https://www.instahyre.com/search-jobs/
                                 Hr of the companies. 
 **5) SQL File -** This folder contains all the SQL queries and Insights on tables.
 
-**--Project Overview--**
+**----Project Overview----**
 
 **1) WebScrapping - The data is extracted from Instahyre(A Job Portal) using Selenium.**
 
@@ -67,7 +67,9 @@ Link - https://www.instahyre.com/search-jobs/
 
 **6) Provided Insights by charts and visualizations from the Dashboard.**
 
+
   **a) Hiring Hotspot..**
+
 
   ![Screenshot 2023-08-05 014828](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/e4f37503-f545-4fc6-9f0d-c806b88cd9c0)
 
@@ -77,7 +79,9 @@ Link - https://www.instahyre.com/search-jobs/
   vacancies and unique jobs among the cities listed. This could indicate that the job market in these cities is not as robust as in the other 
   cities.
 
+
   **b) Industry Distribution in Job Market..**
+
 
   ![Screenshot 2023-08-05 014923](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/8af92636-4c9c-42ce-b6f8-722844c6e8f0)
 
@@ -87,11 +91,30 @@ Link - https://www.instahyre.com/search-jobs/
   and 
   skills that are relevant to the current industry trends.
 
+
   **c) Location-wise Demand for Frontend Engineers and Data Analysts..** 
+
 
   ![Screenshot 2023-08-05 014647](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/a3b29176-9242-423e-b84c-93355a34c728)
 
 Bangalore has the highest job opportunities in both Frontend Engineering and Data Analyst roles, with a significant difference in the number of job openings between the two roles. Hyderabad has a considerable number of Data Analyst jobs, compared to the Frontend Engineer. The increasing demand for data analysis skills in the tech industry is evident from the significantly higher number of job vacancies for data analysts across multiple locations.
+
+
+**d) Regional differences between top 10 states.**
+
+
+![Screenshot 2023-08-05 015305](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/6de668a0-b450-4527-a595-f375a25fa596)
+
+
+Karnataka, Maharashtra, and Haryana are the top three states with the highest number of job vacancies. Karnataka has the highest number of job vacancies in the private sector, with 1989 vacancies. This could be because Karnataka is home to many IT and technology companies, and hence has a high demand for skilled professionals in these sectors. It's important to note that these numbers only represent the job vacancies posted in the specific source that provided the data, and may not represent the entire job market in each state/territory. Additionally, the number of job vacancies may change over time and may vary across different industries and job roles.
+
+
+
+**----Future Scope----**
+
+
+Based on the insights and trends observed in the job market data, it can be inferred that there is a growing demand for data analysts and other tech professionals with data analysis skills. This trend is likely to continue in the future as businesses increasingly rely on data-driven decision making. The demand for tech talent is expected to increase as more companies continue to digitize their operations and expand their online presence.
+
 
 
 **--Challenges Faced--**
