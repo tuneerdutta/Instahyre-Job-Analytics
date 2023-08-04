@@ -17,7 +17,9 @@ Analyze the job market and provide insights to both job seekers and employers.
                       and the Company and job data extracted by Webscrapping.
 2) Images - This folder contains the Database Schema, Dashboard image and the images of insights which were given after visualisation.
 3) Power Point Presentation - This folder contains the PPT which visualises the market condition of all over India.
-4) Python_Jupyter Notebook - This folder contains all the files related to Webscrapping and Data Cleaning.
+4) Python_Jupyter Notebook - This folder contains all the files related to Webscrapping and Data Cleaning. webscrapping.py has the data for all 
+                             the job roles in India and their designation and Location where as the Hr.py file contains the names of the Hr of 
+                             the companies. 
 5) SQL File - This folder contains all the SQL queries and Insights on tables.
 
 **--Project Overview--**
