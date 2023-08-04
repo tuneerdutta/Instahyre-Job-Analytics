@@ -10,7 +10,10 @@ With the growing number of job opportunities available on the internet, it can b
 
 **--Objective--**
 
-Analyze the job market and provide insights to both job seekers and employers.
+Analyze the job market according to Instahyre Job Portal and provide insights to both job seekers and employers.
+Link - https://www.instahyre.com/search-jobs/
+
+![Screenshot 2023-08-04 214856](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/03a5acbb-10b8-44b3-b31f-0c9ca9cbfce1)
 
 **--Data Description--**
 1) Excel_csv Files - This folder contains 4 files Cleaned Dataset (Dataset which is cleaned after Webscrapping) followed by the Excel Dashboard 
