@@ -22,6 +22,18 @@ Analyze the job market and provide insights to both job seekers and employers.
 
 **--Project Overview--**
 
+1) WebScrapping - The data is extracted from Instahyre(A Job Portal) using Selenium.
+2) Data Cleaning - After getting the Raw data it is cleaned using pandas and numpy in Python.
+   a) Import necessary modules and packages.
+   b) Modification of Columns.
+   c) Dealing with the noise values.
+   d) Category Value Replacement.
+   e) Dealing with the null Values and creation of the final data as csv file.
+3) Import the data in Excel and Creation of Dashboard.
+4) Provided Insights by charts and visualizations in the Dashboard.
+
+**--Challenges Faced--**
+
 
 
 
