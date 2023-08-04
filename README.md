@@ -58,35 +58,40 @@ Link - https://www.instahyre.com/search-jobs/
 **4) Creation of the Database Schema.**
 
    ![Database Schema](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/6b03665a-0af3-4683-b60f-f191b2e55d82)
+   
 
 **5) Import the data in Excel and Creation of Dashboard.**
 
    ![dashboard](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/538bbbf1-65c1-405c-bb07-45bf957fe967)
+   
 
 **6) Provided Insights by charts and visualizations from the Dashboard.**
 
   **a) Hiring Hotspot..**
 
-  ![image](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/f2c60955-64a4-4b30-b839-03a23953d796)
+  ![Screenshot 2023-08-05 014828](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/e4f37503-f545-4fc6-9f0d-c806b88cd9c0)
 
-  The highest number of vacancies are in Bangalore, followed by Work From Home and Gurgaon. This could indicate that these cities are major     
-  hubs for job opportunities in the industry. While Mumbai has a high number of unique jobs, it has a comparatively lower number of vacancies. 
-  This could suggest that the competition for jobs in Mumbai is relatively high. Chennai and Delhi have the lowest number of vacancies and 
-  unique jobs among the cities listed. This could indicate that the job market in these cities is not as robust as in the other cities.
+  The highest number of vacancies are in Bangalore, followed by Work From Home and Gurgaon. This could indicate that these cities are major   
+  hubs for job opportunities in the industry. While Mumbai has a high number of unique jobs, it has a comparatively lower number of 
+  vacancies. This could suggest that the competition for jobs in Mumbai is relatively high. Chennai and Delhi have the lowest number of 
+  vacancies and unique jobs among the cities listed. This could indicate that the job market in these cities is not as robust as in the other 
+  cities.
 
   **b) Industry Distribution in Job Market..**
 
-  ![image](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/6626b28c-9195-4668-a919-fa407987df9b)
+  ![Screenshot 2023-08-05 014923](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/8af92636-4c9c-42ce-b6f8-722844c6e8f0)
 
   The majority of job openings in this job market snapshot are in startup companies, with 52% of the total job vacancies. This suggests that 
   there may be more opportunities available for individuals interested in working in a startup environment. The recent job vacancies make up 
-  the second-highest percentage at 32.8%. This could indicate that companies are focused on hiring individuals with more recent experience and 
+  the second-highest percentage at 32.8%. This could indicate that companies are focused on hiring individuals with more recent experience 
+  and 
   skills that are relevant to the current industry trends.
 
   **c) Location-wise Demand for Frontend Engineers and Data Analysts..** 
 
-  ![image](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/16da367c-cb45-4c4c-9005-c0aabb71e179)
   ![Screenshot 2023-08-05 014647](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/a3b29176-9242-423e-b84c-93355a34c728)
+
+Bangalore has the highest job opportunities in both Frontend Engineering and Data Analyst roles, with a significant difference in the number of job openings between the two roles. Hyderabad has a considerable number of Data Analyst jobs, compared to the Frontend Engineer. The increasing demand for data analysis skills in the tech industry is evident from the significantly higher number of job vacancies for data analysts across multiple locations.
 
 
 **--Challenges Faced--**
