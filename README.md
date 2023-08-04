@@ -25,14 +25,35 @@ Analyze the job market and provide insights to both job seekers and employers.
 **--Project Overview--**
 
 1) WebScrapping - The data is extracted from Instahyre(A Job Portal) using Selenium.
+
+![webscrapping_1](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/df483f7a-7463-4ad8-a71a-7e1c32b976eb)
+![webscrapping_2](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/1717a6a6-8d9e-489b-bb50-4dbcf2777d1b)
+![webscrapping_3](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/d3001359-153b-4f7c-bee8-e34b15ac6f3d)
+![webscrapping_4](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/051fde6f-440f-4d47-8a82-ff1f1aadd652)
+
 2) Data Cleaning - After getting the Raw data it is cleaned using pandas and numpy in Python.
    a) Import necessary modules and packages.
+   
+   ![data_cleaning_1](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/f56d90b8-e952-4506-83f2-0a80010eb9a4)
+
    b) Modification of Columns.
+
+   ![data_cleaning_2](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/c6738ff6-b799-461d-a044-31c392931ef3)
+
    c) Dealing with the noise values.
+
+   ![data_cleaning_3](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/db37e265-b4fb-4d17-9d08-a22e383299d6)
+
    d) Category Value Replacement.
+
+   ![data_cleaning_4](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/1c2d9633-1ee5-42a5-9519-8cb3a0a93122)
+
    e) Dealing with the null Values and creation of the final data as csv file.
-3) Import the data in Excel and Creation of Dashboard.
-4) Provided Insights by charts and visualizations in the Dashboard.
+
+   ![data_cleaning_5](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/61a8cc0e-f734-48e0-9bbc-08ef46568d50)
+
+4) Import the data in Excel and Creation of Dashboard.
+5) Provided Insights by charts and visualizations in the Dashboard.
 
 **--Challenges Faced--**
 
