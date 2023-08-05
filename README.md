@@ -1,4 +1,4 @@
-# Job_Analytics_Project
+# Instahyre-Job_Analytics
 
 **----Introduction----**
 
