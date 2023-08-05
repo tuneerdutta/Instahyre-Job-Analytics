@@ -127,6 +127,12 @@ Based on the insights and trends observed in the job market data, it can be infe
 
 **--Challenges Faced--**
 
+**1) Data Collection and Preprocessing-** Scraping data from websites became challenging due to various factors like website structure changes, anti-scraping mechanisms, and rate limiting.
+
+**2) Data Volume and Scalability-** As the amount of scraped data grows, processing and analyzing large volumes of data became computationally challenging. Ensuring scalability is crucial for handling increasing data sizes.
+
+**3) Team Hardles-** Thirdly as all of our team members are working professionals, we were finding difficulty in managing time and the time availability of each team member is different. Firstly, we brainstormed and formed a flowchart of works that helped us be on track. We allocated the work according to each person’s time availability and task priority.
+
 
 
 
