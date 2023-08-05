@@ -43,6 +43,7 @@ Link - https://www.instahyre.com/search-jobs/
 ![webscrapping_4](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/051fde6f-440f-4d47-8a82-ff1f1aadd652)
 
 **2) Data Cleaning - After getting the Raw data it is cleaned using pandas and numpy in Python.**
+
    **a) Import necessary modules and packages.**
    
    ![data_cleaning_1](https://github.com/tuneerdutta/Job_Analytics_Project/assets/131517578/f56d90b8-e952-4506-83f2-0a80010eb9a4)
