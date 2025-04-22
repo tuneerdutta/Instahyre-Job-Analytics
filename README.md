@@ -30,8 +30,6 @@ Link - https://www.instahyre.com/search-jobs/
 **4) Python_Jupyter Notebook -** This folder contains all the files related to Webscrapping and Data Cleaning. webscrapping.py has the data for all the job roles in India and their designation and Location where as the Hr.py file contains the names of the  Hr of the companies. 
                                 
 **5) SQL File -** This folder contains all the SQL queries and Insights on tables.
-
-**5) Excel Dashboard -** This folder contains the dashboard made in Excel.
                           
 
 **----Project Overview----**
