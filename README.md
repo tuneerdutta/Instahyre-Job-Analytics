@@ -25,7 +25,7 @@ Link - https://www.instahyre.com/search-jobs/
 **2) Images -** This folder contains the Database Schema, Dashboard image and the images of insights which were given after visualisation.
 
 **3) Power Point Presentation -** This folder contains the PPT which visualises the market condition of all over India.
-                                  PPT - https://docs.google.com/presentation/d/1JPIibYasgvMBE7nuJ_2IuIbmym9qenbR/edit?usp=sharing&ouid=107579037463303527690&rtpof=true&sd=true
+                                  https://docs.google.com/presentation/d/1JPIibYasgvMBE7nuJ_2IuIbmym9qenbR/edit?usp=sharing&ouid=107579037463303527690&rtpof=true&sd=true
 
 **4) Python_Jupyter Notebook -** This folder contains all the files related to Webscrapping and Data Cleaning. webscrapping.py has the data for all the job roles in India and their designation and Location where as the Hr.py file contains the names of the  Hr of the companies. 
                                 
