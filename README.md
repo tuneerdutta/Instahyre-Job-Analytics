@@ -31,7 +31,8 @@ Link - https://www.instahyre.com/search-jobs/
                                 
 **5) SQL File -** This folder contains all the SQL queries and Insights on tables.
 
-
+**5) Excel Dashboard -** This folder contains the dashboard made in Excel.
+                          
 
 **----Project Overview----**
 
